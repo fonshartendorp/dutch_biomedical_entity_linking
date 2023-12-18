@@ -1,6 +1,6 @@
 # dutch_biomedical_entity_linking
 
-[![Overview](overview.pdf "Overview")](overview.pdf)
+[![Overview](overview.png "Overview")](overview.png)
 
 This repository contains the code, (the publically available) data and pretrained weights for the sapBERT+fine-tuned Biomedical Entity Linking model on the Dutch language as presented in the report.
 
