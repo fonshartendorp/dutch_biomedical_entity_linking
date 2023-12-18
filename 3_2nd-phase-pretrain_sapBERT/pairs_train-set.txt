@@ -1,0 +1,1920 @@
+C0015230 || uitslag || vluchtig exantheem en overige niet-specifieke erupties
+C0017189 || kindermaag, darm en leverarts || tractus gastrointestinalis
+C0020217 || Mola-zwangerschap || zwangerschap, mola-
+C0085200 || Lewy-body-dementie || lichaampje, lewy-
+C0064636 || Lamotrigine || lamotriginum
+C0001956 || alcoholverslaafde || alcoholgebruiksstoornis
+C0042384 || arteriitis || vaatwandontsteking
+C0033075 || presbyopie || presbyopie
+C0796089 || Norman-Roberts syndrome || microlissencefalie type a
+C0036581 || Seleen || selenium, elemental
+C0242350 || impotent || impotentie
+C0020164 || tuberculum || opperarmbeen
+C0001956 || alcoholverslaving || alcoholgebruiksstoornis
+C0001480 || Adenosinetrifosfaat || adenosine-5'-triphosphate
+C0023570 || L-DOPA || β-(3,4-dihydroxyphenyl)alanine
+C0040630 || transseksuele || transseksualiteit met niet-gespecificeerde seksuele geschiedenis
+C0007012 || CO-uitstoot || carbon dioxide
+C0679560 || DNA-match || genetisch onderzoek
+C0015230 || vlekjes || vluchtig exantheem en overige niet-specifieke erupties
+C0038984 || zweetreactie || zweet
+C0043217 || verhoutende || hout
+C0007012 || koolzuurgas || carbon dioxide
+C0020164 || bovenarm || opperarmbeen
+C0038356 || maag- || tumoren, maag-
+C3203533 || trauma || psychologisch trauma
+C0001480 || adenosinetrifosfaat (ATP) || adenosine-5'-triphosphate
+C0018672 || stereotiepe bewegingspatronen || jactatio capitis
+C0271215 || Blinde || blindheid, wettelijke
+C0016125 || DIP || vingergewricht
+C0242225 || deuteranomalie || protanopsie
+C0041466 || tyfuskoorts || typhus abdominalis
+C0040896 || Trichinose || trichinosis
+C0027092 || bijzienden || myopia
+C0001956 || aan de drank || alcoholgebruiksstoornis
+C0026603 || Reisziekten || ziekte, bewegings-
+C0021345 || Pfeiffer || ziekte van pfeiffer
+C0232488 || buikkrampen || koliek abdominaal
+C0040615 || anti-psychotica || ANTIPSYCHOTICS
+C0008203 || Cl || chloridezout
+C0036557 || sedativa || kalmeringsmiddel
+C0008188 || Librium || methaminodiazepoxide
+C0178421 || fibroadenomen || fibroadenoom van borst
+C0034186 || nierbekkeninfecties || nierbekkenontsteking
+C0039987 || thoracale || wervel, thoracale
+C5203670 || coronapatiënt || coronavirusziekte 2019
+C0014994 || etherachtige || ethyl ether
+C0032821 || Kalium || potassium, metal
+C0039144 || chiari malformatie || syringomyelie
+C0007570 || glutenallergie || spruw, niet-tropische
+C0002903 || narcose || verdoving
+C0006826 || kankercellen || neoplasma maligne
+C0018524 || tast- of reukhallucinaties || hallucineren
+C5203670 || coronapandemie || coronavirusziekte 2019
+C0016045 || wild vlees || tumor van de fibreuze weefsels
+C4083212 || kalende || mannelijk kaalheidspatroon
+C0087111 || therapeutische insteek || therapieën
+C0024467 || Mg || mg
+C0038000 || milt || ruptuur, milt-
+C0017189 || darmkanaal || tractus gastrointestinalis
+C0014994 || ether || ethyl ether
+C0008161 || Chloraalhydraten || trichloroacetaldehyde hydrate
+C0007012 || CO2-uitstootrechten || carbon dioxide
+C0029831 || scheel || overig gespecificeerd strabismus
+C0006434 || verbranden van de huid || wonden, brand-
+C0013443 || Oor || oor
+C0039597 || testikels || zaadbal
+C0030764 || pedoseksuele || pedofilie
+C0013604 || zwelling || waterzucht
+C0025424 || Hg || mercury
+C0017189 || digestieve || tractus gastrointestinalis
+C0023418 || Acute myeloïde leukemie || leukemie zonder vermelding van remissie
+C0038702 || sulfa-medicijnen || sulphanilamide
+C0117953 || CFC-12 || dichlorodifluoromethane
+C0030764 || pedoseksualiteit || pedofilie
+C0200966 || gram-positief || gramkleuring
+C0037688 || Sorbitol || l-gulitol
+C0041296 || borsttering || infectieus proces door mycobacterium tuberculosis
+C0027030 || Myiasis || vliegenlarvenziekte
+C0221228 || mee-eters || mee-eter
+C0025424 || kwikproductie || mercury
+C3263723 || wonden || trauma
+C0200966 || gram-negatieve bacterie || gramkleuring
+C0009194 || staartbeen || stuitje
+C0010980 || 4,4'-diaminodifenylsulfon || p-aminophenyl sulfone
+C0023884 || kippenlever || lever
+C0200966 || gram-negatieve bacteriën || gramkleuring
+C0001080 || dwerggroei || chondroplasie, a-
+C0014544 || epileptici || insult
+C0004153 || atherosclerose || atherosclerotische cardiovasculaire ziekte, als zodanig omschreven
+C0025526 || metacarpus || os metacarpi
+C0003286 || anti-epilepticum || anticonvulsivum
+C0071767 || KOH || ätzkali
+C0022417 || gewrichten || gewrichten
+C0014792 || rode bloedcellen || rode bloedcellen
+C1664205 || Bedaquiline || bedaquilinum
+C0023890 || leveruitval || hepatische cirrose
+C0225897 || Linkerventrikel || ventriculus sinister cordis
+C0026820 || contractie || spiercontractie
+C0024305 || Non-hodgkinlymfoom || ziekte van non-hodgkin
+C0016330 || moleculair fluor || fluorine
+C0026961 || pupilverwijding || verwijding pupillen
+C0017152 || gastrische || ontsteking maag
+C0002520 || aminozuren || amino acids NOS
+C0006370 || boulimia nervosa || boulimie
+C0006701 || kalkwater || calcium hydroxide
+C0003850 || arteriosclerotische || vasculaire sclerose
+C0037299 || huidzweren || ulcus, huid-
+C0003943 || bekerkraakbeentjes || cartilago arytenoidea
+C0874161 || Tamiflu || oseltamivirum
+C0026402 || molybdeenafzetting || molybdenum
+C0013404 || dyspnoe || probleem met ademhaling
+C0027763 || zenuwgestel || zenuwstelsel
+C0004763 || Barrett-slokdarm || oesofagus, barrett-
+C0016068 || fibula || kuitbeen
+C1690571 || overgevoelig || allergie voor substantie
+C0030483 || Spaanse kraag || spaanse kraag
+C0013369 || acute dysenterie || dysenterie
+C0001175 || Aids-crisis || immunodeficiëntiesyndroom, verworven
+C0037379 || bijt || vergiftiging door gif van slang
+C0016360 || 5-fluoruracil || fluouracil
+C0233869 || masochistische || masochistische persoonlijkheidstrek
+C0006938 || Captopril || l-captopril
+C0030471 || sinus sphenoidalis || sinus paranasalis
+C0229671 || bloedserum || serum
+C0039590 || teelbalkanker || testisneoplasma
+C0036557 || Sedativum || kalmeringsmiddel
+C0007018 || koolstofmonoxidevergiftiging || koolstofmonoxide
+C0023364 || Leptospirose || leptospirosis
+C0020740 || Ibuprofen || α-(p-isobutylphenyl)propionic acid
+C0178525 || γ-butyrolacton || butyrolactone
+C0012634 || ziekmelding || ziekte
+C0010834 || celplasma || cytoplasma
+C0002607 || ammoniakoplossing || ammonia
+C0028240 || Nocardia || nocardia
+C0085532 || Hartcatheterisatie || coronarogram
+C0016976 || galziekten || vesica fellea
+C0002622 || amnesie || geheugenverlies
+C2939420 || metastatische || metastatisch neoplasma
+C0016732 || wenkbrauwbogen || voorhoofdsbeen
+C0032285 || dubbele longontsteking || pulmonitis
+C0037303 || schedels || schedel
+C0003158 || anthelminthicum || wormmiddel
+C0684275 || bloedziekte || hemofilie
+C0032961 || innesteling || zwangerschap
+C0028242 || Nocardiose || nocardiosis
+C0023890 || Cirrose || hepatische cirrose
+C0035237 || luchtwegen || systema respiratorium
+C0029001 || rivierblindheid || onchocerciasis
+C0002903 || anesthesist || verdoving
+C0004057 || acetosal || ácido acetilsalicílico
+C0037354 || pokkenvirussen || variola
+C0928075 || linkeroorschelp || pinna
+C2939420 || Uitzaaiing || metastatisch neoplasma
+C0025424 || kwikzilver || mercury
+C0086418 || anatomisch moderne mensen || mensheid
+C0032371 || polio || ziekte van heine-medin
+C0086418 || mensen || mensheid
+C0038131 || stotterde || stotteren
+C3263723 || letsels || trauma
+C0006901 || capillair bloed || vas capillare
+C0036557 || sedatieve || kalmeringsmiddel
+C0032821 || kalimijn || potassium, metal
+C0012634 || ziek || ziekte
+C0005682 || blaas || vesica urinaria
+C1330625 || R134a || tetrafluoroethane
+C0728899 || vergiftigingen || intoxicatie
+C0006840 || Candidiasis || moniliasis
+C0023176 || loodintoxicatie || vergiftiging, lood-
+C0236033 || hypertrofie || spierhypertrofie
+C0026603 || zeeziek || ziekte, bewegings-
+C2063080 || mentale blokkering || plasangst
+C0233565 || traagheid in het bewegen || trage bewegingen
+C0009450 || infectioloog || ziekten, besmettelijke
+C0038131 || stotteraar || stotteren
+C0199470 || kunstmatige ventilatie || ventilatie, mechanische
+C0577620 || pinda-allergie || overgevoeligheid voor noten
+C3536965 || SO || sulfuric acid ion(2-)
+C0004352 || Autistische Spectrum Stoornis || vroegkinderlijk autisme
+C0008203 || chloride-anionen || chloridezout
+C0028754 || zwaarlijvigheid || zwaarlijvigheid
+C0042523 || Verapamil || verapamilum
+C0728899 || Vergiftiging || intoxicatie
+C4083212 || kaal || mannelijk kaalheidspatroon
+C0013030 || dopamine- || oxytyramine
+C0035298 || retina || retina
+C0007012 || CO2 || carbon dioxide
+C0042232 || vaginaal || vagina
+C0006701 || gebluste kalk || calcium hydroxide
+C0074722 || Natriumwaterstofcarbonaat || zuiveringszout
+C1304836 || Mantouxtest || reactie van mantoux
+C0027051 || acuut myocardinfarct || infarct, myocard-
+C0162367 || intercellulaire || interstitiële vloeistof
+C0002903 || algehele anesthesie || verdoving
+C0040425 || amandelontsteking || ontsteking van amandelen
+C0039597 || testikel || zaadbal
+C0024437 || LMD || maculadegeneratie
+C0022237 || isopropylalcohol || propan-2-ol
+C0042133 || vleesbomen || vleesboom
+C0087111 || behandelingsrelatie || therapieën
+C0014520 || epidermiscellen || opperhuid
+C0007165 || cardiac output || hartminuutvolume
+C3665420 || hals || wervel, hals-
+C0028215 || Distikstofmonoxide || óxido nitroso
+C0041471 || tyfuspatiënten || vlektyfus
+C0009081 || Klompvoet || voet, klomp-
+C0042232 || poesje || vagina
+C3536965 || vitriool || sulfuric acid ion(2-)
+C0040615 || antipsychotisch || ANTIPSYCHOTICS
+C0002607 || NH || ammonia
+C0037494 || NaCl || sodium chloride
+C0036572 || epileptische insulten || stuip
+C0036690 || sepsis en septisch || septikemie
+C0001175 || hiv || immunodeficiëntiesyndroom, verworven
+C0040960 || Tricuspidalisklep || valva tricuspidalis
+C0007610 || nucleair genoom || kern, cel-
+C0232488 || koliekachtige || koliek abdominaal
+C0023380 || lethargisch || lethargisch
+C0024947 || maxillaire || maxilla
+C0070455 || permethrine || permethrin
+C0032961 || zwangere vrouwen || zwangerschap
+C0085632 || apathischer || onverschillig
+C0034019 || publieke gezondheidszorg || volksgezondheid
+C0001916 || albino-kleur || albinisme
+C0017189 || spijsverteringsorgaan || tractus gastrointestinalis
+C0041671 || aandachtstekort-stoornis || aandachtstekortstoornis
+C0009488 || comorbide stoorniss || comorbiditeit
+C0221245 || kloven || kloofjes
+C0007610 || kerndelingen || kern, cel-
+C1690571 || overgevoeligheid || allergie voor substantie
+C2939420 || uitzaaien || metastatisch neoplasma
+C0085217 || lithium || lithium carbonate
+C0856975 || autisme || autistisch gedrag
+C0036601 || verwonden || zelfverwonding
+C0071767 || Kali || ätzkali
+C0041471 || tyfusachtige || vlektyfus
+C0029831 || scheel oog || overig gespecificeerd strabismus
+C2718310 || geslachtscel || gonocytus
+C0004793 || DNA-sequentie || volgorde, basen-
+C0021345 || Klierkoorts || ziekte van pfeiffer
+C0158317 || springersknie || tendinitis van patella
+C0043217 || spinthout || hout
+C1269537 || hersen || gehele encephalon
+C0001956 || overmatig alcoholgebruik || alcoholgebruiksstoornis
+C0078596 || Xanthaangom || xanthan gum
+C3263723 || letsel || trauma
+C0022821 || gebocheld || hyperkyfose
+C0017861 || glycerine || ölsüß
+C0041755 || Bijwerking || medicatiegeïnduceerde bijwerking
+C0700374 || gehemelte || verhemelte
+C0036341 || schizofrene || schizofrenie alle vormen
+C0000726 || abdomen || structuur van abdomen
+C0041485 || Tyr || y
+C0085411 || Angiodysplasie || dysplasie, angio-
+C0038984 || zweetachtig || zweet
+C0236802 || Genderdysforie || geslachtsidentiteitsstoornis op kinderleeftijd
+C0001074 || achillespeesblessures || tendo calcaneus
+C0043217 || verhouting || hout
+C0023890 || levercirrose || hepatische cirrose
+C0085532 || coronaire angiografie || coronarogram
+C1690571 || allergische reacties || allergie voor substantie
+C0003489 || arcus aortae || boog, aorta-
+C0225897 || linkerkamer || ventriculus sinister cordis
+C0033325 || prognostiek || prognosticeren
+C0034186 || chronische nierontsteking || nierbekkenontsteking
+C0001344 || keelpijnen || pharyngitis acuta
+C0935989 || Imatinib || α-(4-methyl-1-piperazinyl)-3'-((4-(3-pyridyl)-2-pyrimidinyl)amino)-p-toluidide
+C0233869 || masochist || masochistische persoonlijkheidstrek
+C0522179 || dood te gaan || doodsangst
+C0525079 || Bendamustine || bendamustina
+C0016751 || Fructose-intolerantie || intolerantie, fructose-
+C0031354 || Farynx || pharynx
+C0022417 || articulair || gewrichten
+C0017189 || gastro || tractus gastrointestinalis
+C0016658 || beenbreuk || gebroken botten
+C0041936 || stedelijke vernieuwingen || stadsvernieuwing
+C0008058 || perniosis || wintertenen en winterhanden
+C0014609 || dekweefsel || epithelium
+C0007776 || Hersenschors || schors, hersen-
+C0043047 || vocht || dihydrogen oxide
+C0071767 || kaliumcarbonaat || ätzkali
+C0033075 || oudziendheid || presbyopie
+C0037494 || keukenzout || sodium chloride
+C0004057 || aspirine || ácido acetilsalicílico
+C0019189 || hepatitis || hepatitis, chronische
+C0003286 || anticonvulsieve || anticonvulsivum
+C0242225 || kleurenblind || protanopsie
+C0035527 || E101 || vitamine b2
+C0018941 || bloedonderzoeken || onderzoek, hematologisch
+C0162429 || ondervoeding || malnutritie
+C2939420 || botmetastasen || metastatisch neoplasma
+C3203533 || psychotrauma's || psychologisch trauma
+C0236802 || genderdysfore || geslachtsidentiteitsstoornis op kinderleeftijd
+C0036557 || kalmerende || kalmeringsmiddel
+C0043481 || Zn || zn
+C0030764 || misbruik || pedofilie
+C0021156 || snijtanden || snijtand
+C0037303 || cranium || schedel
+C0033141 || aritmogene cardiomyopathie || myocardziekte, primaire
+C0018026 || Or || gold
+C0025584 || metatarsale || ossa metatarsalia
+C0022237 || 2-propanol || propan-2-ol
+C0035527 || B2 || vitamine b2
+C0042979 || voyeur || voyeurisme
+C0041316 || huidziekten || tuberculose, lymfklier-
+C0006012 || borderline || persoonlijkheidsstoornis, borderline
+C0002622 || verlies van zijn geheugen || geheugenverlies
+C0013604 || ophoping van vocht || waterzucht
+C0018563 || twee handen || hand
+C0066677 || Modafinil || modafinilum
+C0032231 || longvliesontsteking || pleuritis (excl. TBC)
+C0028754 || dikker || zwaarlijvigheid
+C2718310 || niet-geslachtscel || gonocytus
+C3665420 || cervicale wervels || wervel, hals-
+C0030764 || kinderverkrachter || pedofilie
+C0040186 || nervus tibialis || nervus tibialis
+C0221508 || zenuwziek || zenuwinzinking
+C1262477 || vermagert || verloren gewicht
+C0017245 || Gemfibrozil || gemfibrozilum
+C0012265 || Digoxine || digoxinum
+C0008684 || gingivitis || chronische gingivitis
+C0032371 || Poliomyelitis || ziekte van heine-medin
+C0025611 || methamfetaminegebruik || methyl-β-phenylisopropylamine
+C0006142 || borst- || maligne tumor van mamma
+C0030920 || maagzweren || ulcus pepticum syndroom
+C0006255 || bronchi || luchtpijptak
+C0021125 || impulsief || impulsief gedrag
+C0041296 || tuberculosebestrijding || infectieus proces door mycobacterium tuberculosis
+C0009450 || infectieziekten || ziekten, besmettelijke
+C0026264 || Mitralisklep || valva mitralis
+C0074732 || sodapoeder || sodium salt of carbonic acid
+C0003469 || chronische angst || angststoornissen
+C0200966 || Grampreparaat || gramkleuring
+C0016204 || winden laten || winderigheid als symptoom
+C0041671 || aandachtstekortstoornissen (ADHD) || aandachtstekortstoornis
+C0016365 || prozac || fluoxetinum
+C0013450 || middenoor || ossicula auditus
+C0032952 || Prednison || prednisonum
+C0006840 || candida-infectie || moniliasis
+C0018671 || keel || tumoren, hoofdhals-
+C0025424 || mercurium || mercury
+C0010520 || blauwzucht || cyanotisch
+C0010674 || mucoviscidose || taaislijmziekte
+C0000737 || buikpijn of buikkramp || pijn, buik-
+C0020538 || hoge bloeddruk || hypertensie
+C0043217 || houtverspaning || hout
+C0007301 || kaakbeen || textus cartilagineus
+C0039520 || tenosynovitis || tenovaginitis
+C0023186 || leerproblemen || leerstoornis
+C0020538 || hoge bloeddruk of hypertensie || hypertensie
+C0040616 || anxiolytische || psychorelaxans
+C0005791 || Aferese || verwijdering, bloedcomponenten-
+C0027051 || myocardinfarct || infarct, myocard-
+C0026402 || Molybdeen || molybdenum
+C0025376 || Demerol || petydyna
+C0193388 || leverbiopsie || leverbiopsie
+C0020672 || onderkoeld || temperatuur lichaam verlaging
+C3839736 || sensibiliserende || sensibilisatie
+C0162739 || HELLP-syndroom || syndroom, HELLP-
+C0006681 || calcium || kohlensaurer kalk
+C0017189 || spijsverteringsorganen || tractus gastrointestinalis
+C0162367 || interstitiële ruimte || interstitiële vloeistof
+C0014118 || infectieuze endocarditis || endocarditis
+C0242216 || galstenen || steen, gal-
+C0497327 || dementerende || dementia
+C0349231 || fobieën op te nemen || fobische toestand
+C0010275 || schedelmetingen || craniometrie
+C0235325 || ziekteherstel || maagbloeding
+C0005036 || Benzeen || fenylhydride
+C0007776 || cortex || schors, hersen-
+C0015663 || vastendagen || vasten
+C0033975 || psychotische depressie || psychotische stoornissen
+C0012634 || medisch classificeerbare aandoening || ziekte
+C0087111 || behandelen || therapieën
+C0032105 || plasma || plasma
+C0027960 || nevus || naevus
+C0004158 || athetotische || athetotische beweging
+C0002403 || Amantadine || aminoadamantane
+C0233619 || nymfomaan || nymfomanie
+C0037199 || bijholteontsteking (sinusitis) || sinusinfectie
+C0042331 || migraines || variant van migraine
+C1831808 || Apixaban || apixabanum
+C0013618 || EDTA || {[-(bis-carboxymethyl-amino)-ethyl]-carboxymethyl-amino}-acetic acid
+C0000962 || acetabulum || heupkom
+C0003842 || slagaders || slagaders
+C0155078 || lasogen || fotokeratitis
+C0008203 || chloride-ionen || chloridezout
+C0013395 || dyspeptische klachten || indigestie
+C0008149 || chlamydia || infecties, chlamydia-
+C1269537 || hersenletsel || gehele encephalon
+C0016734 || sinussen || voorhoofdsholte
+C0025521 || stofwisselingsstoornissen || stofwisseling, aangeboren afwijking van de
+C0011812 || dexedrine || dextroamphetamine
+C0016842 || Pectus || trechterborst
+C0392535 || abortussen || zwangerschapsbeëindiging
+C0035920 || rubella || rodehond
+C0028128 || NO || óxido nítrico
+C0027836 || Gliacel || neurogliocyt
+C0029939 || ovarium || ovarium
+C0016860 || Furosemide || furosemidum
+C0021440 || infuzen || intraveneuze infusies
+C0036572 || epileptische aanvallen || stuip
+C0021156 || laterale bovensnijtanden || snijtand
+C0006255 || bronchiën || luchtpijptak
+C0002895 || sikkelcelziekte || sikkelcelziekte door hemoglobine s
+C0728899 || vergiftigen || intoxicatie
+C0041471 || tyfusepidemie || vlektyfus
+C0011053 || gehoor- en spraakgestoorden || surditas
+C0007012 || CO (kooldioxide) || carbon dioxide
+C0010286 || kreatinefosfaat || n-methyl-n-guanylglycine
+C0015450 || menselijk || gezicht
+C0019326 || thorcale hernia || ventrale hernia
+C0008149 || Chlamydia || infecties, chlamydia-
+C0006222 || bromide- || bromides
+C0018026 || goudkatalyse || gold
+C0036601 || zich verminkt || zelfverwonding
+C0008909 || claustrofobisch || angst voor afgesloten ruimtes
+C0039433 || colliculus inferior || tectum mesencephali
+C0013604 || bult || waterzucht
+C0010137 || cortisonen || cortisone
+C1457883 || agressief || strijdlustige reactie
+C0022237 || iso-propanol || propan-2-ol
+C0016125 || duimknokkel || vingergewricht
+C0014994 || etherische oplossing || ethyl ether
+C0002792 || anafylactische shock || systemische anafylaxe
+C0040630 || geslachtsveranderende operatie || transseksualiteit met niet-gespecificeerde seksuele geschiedenis
+C0034951 || refractiefout || stoornis refractie
+C0876769 || Fe(CO) || iron, carbonyl
+C0026237 || mitochondria || mitochondrium
+C5203670 || COVID-19- || coronavirusziekte 2019
+C0010055 || bypass || coronairebypassoperatie
+C3263723 || wond || trauma
+C0030297 || alvleesklier || pancreasneoplasma
+C0032821 || potas || potassium, metal
+C0302142 || vergroeien || misvorming
+C0020672 || onderkoeling || temperatuur lichaam verlaging
+C0009194 || stuitbeen || stuitje
+C0221766 || diastase || diastasis recti abdominis
+C0018021 || krop || zwelling van de schildklier
+C0014257 || endotheelcellen || structuur van endotheel
+C0023418 || bloedkanker || leukemie zonder vermelding van remissie
+C0011616 || contactallergeen || sensitiviteit, contact-
+C0152036 || Immunologie || immunologie
+C0009450 || besmettelijke ziektes || ziekten, besmettelijke
+C0000726 || onderbuik || structuur van abdomen
+C0071755 || kalium || potassium carbonate
+C0019112 || aambeien || hemorroïd
+C0034015 || symfyse || symphysis pubica
+C0023343 || melaatse || ziekte van hansen
+C0017861 || plantaardige glycerine || ölsüß
+C0023176 || in het bloed || vergiftiging, lood-
+C0036572 || aanvallen || stuip
+C0025376 || Pethidine || petydyna
+C1854013 || anisomastie || asymmetrie van de borst
+C0001175 || Aids || immunodeficiëntiesyndroom, verworven
+C0016976 || Galblaas || vesica fellea
+C3463824 || myelodysplastisch syndroom || syndroom, myelodysplastisch
+C0037868 || zaadcellen (spermatozoïden) || zaadcel
+C0037855 || zaadstreng ("funiculus") || zaadstreng
+C0035455 || neusverkoudheid || rhinitis
+C0042109 || urticariele || urticatie
+C0023976 || QT-interval || syndroom, lange-QT-
+C0041296 || TBC-patiënten || infectieus proces door mycobacterium tuberculosis
+C0021359 || steriele || onvruchtbaarheid
+C0056301 || kopersulfaat || cupric sulfate
+C0012634 || ziekten || ziekte
+C0001041 || acetyl-cholinebinding || o-acetylcholine
+C0029850 || klaplong || overige spontane pneumothorax
+C0081876 || pantozol || pantoprazolum
+C0001916 || albino || albinisme
+C0005847 || bloedvaatjes || vas sanguineum
+C0009221 || tripletten || codon
+C0007806 || hersen-ruggenmergvloeistof || vloeistof, cerebrospinale
+C0041600 || beentje in de onderarm || ulna
+C0002771 || analgetische werking || pijnstiller
+C0001527 || lichaamsvet || vetweefsel
+C0230139 || thorax || thoraxholte
+C0026827 || hypotonie || spiertonus verminderd
+C0009450 || besmettelijke ziekten || ziekten, besmettelijke
+C0009326 || erfelijke bindweefselziekten || ziekte, collageen-
+C1455147 || Dasatinib || dasatinibum
+C0027868 || myopathie || ziekten, neuromusculaire
+C0000786 || misgeboorte || spontane miskraam
+C0018941 || bloed || onderzoek, hematologisch
+C0000833 || abcessen || abces
+C0007799 || hersenholten || ventrikel, hersen-
+C0007012 || CO-emissies || carbon dioxide
+C0271215 || visueel gehandicapten || blindheid, wettelijke
+C0542346 || puist || pustula
+C0028128 || Stikstofmonoxide || óxido nítrico
+C0020889 || (darmbeen, of os ilium) || os ilium
+C0282687 || Ebola || koorts, hemorragische ebola--
+C0071767 || KOH-oplossing || ätzkali
+C0024947 || boven || maxilla
+C0027401 || narcistische || narcisme
+C0005558 || weefselbiopsie || biopsie
+C0002874 || aplastische anemie || hemopoëtische aplasia
+C0006681 || carbonaten || kohlensaurer kalk
+C0001956 || alcoholische || alcoholgebruiksstoornis
+C0023176 || loodhoudende verf || vergiftiging, lood-
+C0041471 || typhus || vlektyfus
+C0037199 || sinusitis || sinusinfectie
+C0007610 || meerkernige || kern, cel-
+C0476254 || dyslectisch || woordblindheid
+C0041600 || ulna || ulna
+C0015663 || vastentijd || vasten
+C0015811 || femur || os femoris
+C0232488 || koliek || koliek abdominaal
+C0030883 || Nembutal || pentobarbitone
+C0033975 || psychoses || psychotische stoornissen
+C0497327 || cognitieve achteruitgang || dementia
+C0021125 || impulsieve || impulsief gedrag
+C0026820 || isotensie || spiercontractie
+C0024305 || non-hodgkinvariant || ziekte van non-hodgkin
+C0018026 || aurum || gold
+C0037354 || pokkenepidemie || variola
+C0031212 || andere stoornissen in Groep C || stoornis persoonlijkheid
+C0036581 || Se || selenium, elemental
+C0007610 || kernen || kern, cel-
+C0001956 || drankzucht || alcoholgebruiksstoornis
+C0010200 || hoestbuien || hoest
+C0087111 || therapeutische || therapieën
+C0040630 || transvrouw || transseksualiteit met niet-gespecificeerde seksuele geschiedenis
+C0012203 || Di-ethylstilbestrol || α,α'-diethyl-(e)-4,4'-stilbenediol
+C0151699 || hersenbloedingen || intracraniale bloedingen
+C0074732 || natrium || sodium salt of carbonic acid
+C0023992 || imodium || loperamidum
+C1262477 || gewichtsverlies || verloren gewicht
+C0001367 || Aciclovir || acyclovir
+C0006681 || kalk || kohlensaurer kalk
+C0022658 || nefrologische aandoeningen || ziekten, nier-
+C0476254 || woordblind || woordblindheid
+C0041671 || aandachtstekort/hyperactiviteitstoornis || aandachtstekortstoornis
+C0011630 || Dermatomycose || schimmeldermatitis
+C0033300 || Progeria || syndroom van hutchinson-gilford
+C0261590 || röntgentherapie || radiologische verrichting en radiotherapie
+C0031485 || PKU || phenylketonuria
+C0027836 || gliawoekeringen || neurogliocyt
+C0007012 || koolzuurhoudend || carbon dioxide
+C0200966 || grampositieve bacteriën || gramkleuring
+C3669209 || sacrum || sacrale wervelkolom
+C5203670 || COVID-19 || coronavirusziekte 2019
+C1572489 || magnesium- || magnesium sulfate anhydrous
+C0002615 || salmiakzout || chlorid ammonia
+C0025500 || Mesothelioom || mesothelioom
+C0087111 || behandelingen || therapieën
+C0003864 || gewrichtspijnen || polyarthritis
+C0152249 || puisten || acne varioliformis
+C0162316 || ijzergebreksanemie || sideropenische anemie
+C0020899 || laaggeletterden || analfabetisme
+C0030318 || "pan"iek || reactie panisch
+C0029831 || strabismus || overig gespecificeerd strabismus
+C0024348 || lysaat || lysis
+C0006015 || kinkhoest- || infecties, bordetella-
+C0041671 || ADHD-bestuur || aandachtstekortstoornis
+C0032961 || intra-uteriene leven || zwangerschap
+C0017189 || maag-darm-kanaal || tractus gastrointestinalis
+C0011980 || diafragma || pessarium
+C0887700 || Natriumacetaat || sodium acetate,anhydrous
+C0556150 || cervonzuur || docosahexaenoic acid
+C0033975 || psychotische || psychotische stoornissen
+C0065583 || (-)-appelzuur || malic acid
+C0017189 || spijsverteringsstelsel || tractus gastrointestinalis
+C1690571 || overgevoeligheidsreacties || allergie voor substantie
+C1456784 || achterdocht || ziekelijke achterdocht
+C0021359 || steriel || onvruchtbaarheid
+C0041296 || antituberculosemiddel || infectieus proces door mycobacterium tuberculosis
+C0001963 || CHOH || methylalcohol
+C0301499 || ijzercarbonaten || ferrous carbonate
+C0034417 || Kinine || quinine
+C0028754 || over || zwaarlijvigheid
+C0071755 || KCO || potassium carbonate
+C0030764 || seksuele handelingen met jongens || pedofilie
+C5203670 || Coronacrisis || coronavirusziekte 2019
+C0017160 || gastrenteritis || gastro-enteritis
+C0007012 || kooldioxide (CO) || carbon dioxide
+C0007570 || Coeliakie || spruw, niet-tropische
+C0497327 || geheugenverlies || dementia
+C0029831 || loensende || overig gespecificeerd strabismus
+C0497327 || dement || dementia
+C0017189 || verteringskanaal || tractus gastrointestinalis
+C0034014 || Schaambeen || schaambeen
+C0010153 || kroep || infectieus proces door corynebacterium
+C0006901 || capillair || vas capillare
+C1330625 || HFC-134a || tetrafluoroethane
+C3203533 || getraumatiseerd || psychologisch trauma
+C0027061 || hartspier || spier, hart-
+C0003232 || antimicrobiële || antibiotica
+C2678065 || myofibrillen || myofibrillaire myopathie
+C0277553 || idiopathische || idiopathische ziekte
+C0035237 || luchtwegklachten || systema respiratorium
+C0034283 || Daraprim || pyrimethaminum
+C0200966 || gramnegatieve || gramkleuring
+C0032273 || stoflong || stoflong
+C0392689 || giftig || overhydratatie
+C0149523 || cystitis || cystitis acuut
+C0001956 || alcoholiste || alcoholgebruiksstoornis
+C0001916 || albino's || albinisme
+C0230168 || holte || holte, buik-
+C0015397 || oogaandoening || ziekte, oog-
+C0086418 || moderne mensen || mensheid
+C5203670 || coronavirusinfectie || coronavirusziekte 2019
+C0028797 || beroepsziekten || ziekten, beroeps-
+C0037004 || schouders || schouderregio
+C0392109 || type 3 tracheomalacie || tracheomalacie congenitaal
+C2939420 || gemetastaseerd || metastatisch neoplasma
+C0017189 || gastrointestinale || tractus gastrointestinalis
+C3669209 || sacrale wervels || sacrale wervelkolom
+C0037494 || zout || sodium chloride
+C0007971 || Cheilitis || lipontsteking
+C0043047 || vloeibaar water || dihydrogen oxide
+C0007301 || kraakbeenlagen || textus cartilagineus
+C0028754 || Obesitas || zwaarlijvigheid
+C0004609 || Baclofen || gamma-amino-beta-(p-chlorophenyl)butyric acid
+C0392689 || hyponatriëmie || overhydratatie
+C0175703 || TAR-syndroom || trombocytopenia-absent radius-syndroom
+C0039316 || voetwortel- || voetwortelbeentjes
+C0002418 || lui oog || lui oog
+C0030764 || pedofielen || pedofilie
+C0376449 || segmenten || somieten
+C0013450 || stapes || ossicula auditus
+C0041296 || tuberculeuze || infectieus proces door mycobacterium tuberculosis
+C0030049 || Oxycotin || oxycodonum
+C0010678 || cysticercus || cysticercosis
+C0024706 || mangaanpaars || mn
+C0009194 || staartbeenbreuk || stuitje
+C0014257 || endotheel cellen || structuur van endotheel
+C3665420 || cervicale || wervel, hals-
+C0375111 || neoplastisch || neoplasma van niet-gespecificeerde oorsprong, plaats niet-gespecificeerd
+C0024091 || lenden || wervel, lenden-
+C0338818 || waanaanval || morbide jaloezie
+C0013450 || incus || ossicula auditus
+C0014520 || epirdermis || opperhuid
+C0035455 || neusverkoudheden || rhinitis
+C0037868 || antherozoïden || zaadcel
+C0144576 || Paclitaxel || 5beta,20-epoxy-1,2-alpha,4,7beta,10beta,13alpha-hexahydroxytax-11-en-9-one 4,10-diacetate 2-benzoate 13-ester with (2R,3S)-n-benzoyl-3-phenylisoserine
+C0022578 || Keratoconus || keratoconus
+C0042149 || In utero || uterus
+C1527344 || hese || fonatiestoornis
+C0020615 || hypoglykemisch || hypoglykemische aandoening
+C0041296 || TBC || infectieus proces door mycobacterium tuberculosis
+C0021440 || infusen || intraveneuze infusies
+C0031354 || slokdarmhoofd || pharynx
+C0027051 || hart || infarct, myocard-
+C0030311 || Pavulon || pancuronium bromide
+C1739768 || Rivaroxaban || rivaroxaban
+C0029463 || botkanker || sarcoom, osteogeen
+C0003449 || antitussivum || hoestprikkeldemper
+C0032285 || acute longontsteking || pulmonitis
+C0017189 || gastro-intestinaal || tractus gastrointestinalis
+C1690571 || allergische reactie || allergie voor substantie
+C0066367 || methylethylketon || methylethyl ketone
+C0015230 || huidirritaties || vluchtig exantheem en overige niet-specifieke erupties
+C0029180 || oogkassen || orbita
+C0010031 || cornea || hoornvlies
+C0022614 || Ketamine || ketaminum
+C0007137 || kanker aan zijn oor || squameuze-celcarcinoom
+C0032961 || hoogzwanger || zwangerschap
+C0011053 || gehoor || surditas
+C0041936 || stedelijke vernieuwing || stadsvernieuwing
+C0037303 || craniale || schedel
+C0020604 || hypochrondische || ziektevrees
+C0033325 || Prognose || prognosticeren
+C0030647 || Knieschijven || patella
+C0036277 || scapula || schouderblad
+C0023343 || leprapatiënten || ziekte van hansen
+C0032008 || hypofysevoorkwab || lobus anterior hypophyseos
+C0026402 || Mo || molybdenum
+C0032961 || reproductieve || zwangerschap
+C0021345 || mononucleosis (ziekte van Pfeiffer) || ziekte van pfeiffer
+C0030486 || gedeeltelijk verlamd || paralyse, onderste extremiteiten
+C0007610 || kernige || kern, cel-
+C1456784 || paranoide waandenkbeelden || ziekelijke achterdocht
+C0020255 || waterhoofd || waterhoofd
+C0019552 || heupbeen || heup
+C0004604 || rugklachten || rug pijnlijk
+C0074280 || waterstofseleniet || selenous acid
+C2718310 || voortplantigscellen || gonocytus
+C5203670 || coronaviruspandemie || coronavirusziekte 2019
+C2939420 || uitzaaiingen || metastatisch neoplasma
+C0003123 || anorexisch || verminderde eetlust
+C0332575 || roodheid || roodkleurig
+C0025611 || meth || methyl-β-phenylisopropylamine
+C0017105 || gangreen || gangreen, gas-
+C0087111 || therapeutische behandelingen || therapieën
+C0040630 || transseksueel || transseksualiteit met niet-gespecificeerde seksuele geschiedenis
+C0020899 || functioneel analfabeet || analfabetisme
+C0015732 || fecale incontinentie || ontlastingsincontinentie
+C0024117 || COPD || obstructieve luchtwegaandoening (chronisch)
+C0042232 || vaginale || vagina
+C0005558 || preparaat || biopsie
+C0086418 || personen || mensheid
+C0042109 || urticaria || urticatie
+C0155078 || sneeuwblindheid || fotokeratitis
+C0008913 || clavicula || sleutelbeen
+C0022658 || nierproblemen || ziekten, nier-
+C0008318 || vitamine D || vitamin d3
+C0007776 || cortex cerebri || schors, hersen-
+C0001430 || bijnierschorsadenoom || benigne adenomateuze tumor
+C0009450 || infectie || ziekten, besmettelijke
+C0026654 || Moyamoya-syndroom || ziekte, moyamoya-
+C0010200 || ophoesten || hoest
+C0017638 || hersenstamkanker || gliaceltumor
+C1533088 || Orthokeratologie-lenzen || ortho-k
+C0679560 || DNA || genetisch onderzoek
+C0015652 || leverbot || fascioliasis
+C0036690 || bloedinfectie || septikemie
+C0030647 || patellapees || patella
+C0034362 || Q-koortsbacterie || nine Mile-koorts
+C0026884 || stom || mutisme
+C3669209 || sacraal || sacrale wervelkolom
+C5203670 || corona-infectie || coronavirusziekte 2019
+C0010153 || difteritis || infectieus proces door corynebacterium
+C0392535 || abortie || zwangerschapsbeëindiging
+C3203533 || oorlogstrauma || psychologisch trauma
+C0014544 || Epilepsie || insult
+C0074722 || bakpoeder || zuiveringszout
+C0002771 || pijnstiller || pijnstiller
+C4083212 || kale || mannelijk kaalheidspatroon
+C0043217 || houtoverslag || hout
+C0029696 || Otosclerose || overige gespecificeerde vormen van otosclerose
+C0027497 || onwel voelen || onpasselijk gevoel
+C0036581 || seleniden || selenium, elemental
+C0026820 || contractiele || spiercontractie
+C0009194 || staartwervels || stuitje
+C0087111 || therapeutisch || therapieën
+C0041316 || scrofulose || tuberculose, lymfklier-
+C0007165 || hartdebiet || hartminuutvolume
+C0277553 || onbekende oorzaak || idiopathische ziekte
+C0302142 || teratologie || misvorming
+C0007018 || koolmonoxide || koolstofmonoxide
+C0036130 || salpingitis || eileiderontsteking
+C0036846 || sesambotje || sesambotje
+C0006434 || brandwonden || wonden, brand-
+C0011311 || denguevirus || knokkelkoorts
+C0005847 || doorbloeding || vas sanguineum
+C0026946 || schimmelinfecties || schimmelziekte
+C0034372 || tetraplegisch || quadriplegie
+C0008909 || claustrofobische || angst voor afgesloten ruimtes
+C0016976 || galblaasinfectie || vesica fellea
+C0027368 || Nandrolon || nandrolonum
+C0013618 || Ethyleendiaminetetra-azijnzuur || {[-(bis-carboxymethyl-amino)-ethyl]-carboxymethyl-amino}-acetic acid
+C0020615 || lage bloedsuikerspiegel || hypoglykemische aandoening
+C0040616 || anxiolitische || psychorelaxans
+C0041445 || tympana || trommelvlies
+C0051723 || ammoniumpersulfaat || persulfaat
+C0041466 || tyfeuze koorts || typhus abdominalis
+C0041296 || tuberculeuze ziekte || infectieus proces door mycobacterium tuberculosis
+C0039663 || THC-gehalte || δ9-tetrahydrocannabinol
+C0034019 || volks || volksgezondheid
+C0029456 || botontkalking || porose, osteo-
+C0038984 || zweet || zweet
+C0032961 || zwangere || zwangerschap
+C0005847 || bloedvaten || vas sanguineum
+C0270898 || Klumpke || ondersteplexusbrachialisverlamming
+C0002607 || Ammoniak || ammonia
+C0442874 || zenuwziekten || zenuwaandoening
+C0221198 || aantastingplekken || laesie
+C0030558 || wandbeenderen || wandbeen
+C0007610 || kernmembraan || kern, cel-
+C0392535 || anti-abortusadvocaten || zwangerschapsbeëindiging
+C0009194 || staartbeenderen || stuitje
+C0007531 || blinde darm || coecum
+C0042024 || ongewild urineverlies || urineverlies
+C0018941 || bloedtest || onderzoek, hematologisch
+C0040822 || bevend || tremor
+C0002622 || geheugenstoornis || geheugenverlies
+C0005682 || blaasafwijkingen || vesica urinaria
+C0036410 || oogwit || sclera
+C0017189 || gastro-intestinale || tractus gastrointestinalis
+C0014609 || epithele || epithelium
+C0021125 || impulsieve handeling || impulsief gedrag
+C0375111 || Neoplasie || neoplasma van niet-gespecificeerde oorsprong, plaats niet-gespecificeerd
+C0037506 || natriumlaurylsulfaat || sodium lauryl sulfate
+C0037354 || variolatie || variola
+C0017189 || darmwand || tractus gastrointestinalis
+C0041602 || nervus ulnaris || nervus ulnaris
+C0019555 || Heupdysplasie || heupdislocatie, congenitaal
+C0003469 || angstverschijnselen || angststoornissen
+C0043369 || Xylitol || xylitol
+C0036572 || insulten || stuip
+C0002520 || α-aminozuren || amino acids NOS
+C5203670 || coronabesmetting || coronavirusziekte 2019
+C0271215 || geleidelijn || blindheid, wettelijke
+C0007939 || Syfilis || syfilitische venerische zweer
+C0010592 || Ciclosporine || cyclosporine
+C0018935 || te hoge bloedwaarde || packed-cell volume
+C0089147 || butanol || butyl alcohol
+C0078839 || Zolpidem || zolpidemum
+C0027868 || neuromusculaire aandoeningen || ziekten, neuromusculaire
+C0020600 || hypochloorzuur || hypochlorous acid
+C5203670 || Covid-19 || coronavirusziekte 2019
+C0284941 || campral || n-acetylhomotaurine
+C0018546 || Haloperidol || γ-(4-(p-chlorophenyl)-4-hydroxpiperidino)-p-fluorbutyrophenone
+C3263723 || zwaargewonden || trauma
+C0003578 || ademhalingsstilstand || apnoe
+C3714497 || astmatische || reactieve luchtwegenziekte
+C0020615 || hypo || hypoglykemische aandoening
+C0023281 || zwarte koorts || leishmaniasis niet gespecificeerd
+C0006901 || longcapillair || vas capillare
+C0016330 || fluor || fluorine
+C0027882 || zenuwcellen || zenuwcellen
+C0034161 || verettering || etter
+C0017189 || maag || tractus gastrointestinalis
+C0679560 || DNA-testen || genetisch onderzoek
+C0028754 || overgewicht || zwaarlijvigheid
+C0034272 || pyridoxol || pyridoxol
+C0007610 || nuclei || kern, cel-
+C0020268 || hydrocortison || hydrocortisonum
+C0261590 || bestralingen || radiologische verrichting en radiotherapie
+C0021359 || onvruchtbare || onvruchtbaarheid
+C0032950 || Prednisolon || prednisolonum
+C0014609 || epitheelweefsel || epithelium
+C0152249 || anti-acnemiddelen || acne varioliformis
+C0028013 || koper-nikkel legering || nickel
+C0034896 || rectum || rectum
+C0039730 || β-thalassemie || thalassemiesyndroom
+C0016564 || spaanplaatgas || oxymethylene
+C0282312 || pest || builenpest
+C0041967 || urethra || urinebuis
+C0030764 || pedofiele || pedofilie
+C0035237 || ademhalingsorganen || systema respiratorium
+C0007012 || CO-gehalte || carbon dioxide
+C0022122 || zitbeenderen || zitbeen
+C0423318 || twee verschillend gekleurde ogen || heterochromie van iris
+C0030764 || pedofiel || pedofilie
+C0423318 || Heterochromie || heterochromie van iris
+C0037004 || rechterschouder || schouderregio
+C0271215 || blinde || blindheid, wettelijke
+C0027423 || neus || neusholte
+C3714497 || astmacentrum || reactieve luchtwegenziekte
+C0031153 || peritoneale || peritoneum
+C0017472 || kiemblaadje || kiembladen
+C0065583 || L-appelzuur || malic acid
+C0014520 || epidermale || opperhuid
+C0007799 || ventrikels || ventrikel, hersen-
+C3203533 || traumatische gebeurtenis || psychologisch trauma
+C0023418 || Leukemie || leukemie zonder vermelding van remissie
+C0036429 || botsclerose || sclerosis
+C2316458 || savant || savantsyndroom
+C0003818 || As || as
+C0917805 || TIA's || voorbijgaande cerebrale ischemie
+C4083212 || kaalhoofdigheid || mannelijk kaalheidspatroon
+C4083212 || kale vader || mannelijk kaalheidspatroon
+C0003232 || antibiotische || antibiotica
+C0022951 || lactose-tolerantie || lactosemalabsorptie
+C0030580 || parotisklieren || speekselklier
+C0027960 || moedervlekken || naevus
+C0024530 || Malaria || plasmodium-infectie
+C0006901 || capillaire bloedvaten || vas capillare
+C0724441 || Yohimbine || yohimbinum
+C0031526 || Philadelphiachromosoom || philadelphia-chromosoom
+C0026402 || molybdeen- || molybdenum
+C0700374 || zachte gehemelte || verhemelte
+C0018026 || goudkleurig || gold
+C0040264 || oorsuizen || rinkelen in de oren
+C0026639 || Wangslijmvliesonderzoek || tunica mucosa oris
+C0042149 || uterus || uterus
+C0022346 || jaundice || geelzucht
+C5203670 || COVID-19-infectie || coronavirusziekte 2019
+C0261590 || bestraling van kanker || radiologische verrichting en radiotherapie
+C0206181 || eind van een axon || zenuweinden, presynaptische
+C0033975 || psychotische aandoening || psychotische stoornissen
+C0030247 || palpabel || palpatie
+C0003449 || hoestonderdrukker || hoestprikkeldemper
+C0011603 || huidontsteking || huidontsteking
+C0016658 || gebroken || gebroken botten
+C0032911 || Praziquantel || praziquantel
+C0025289 || meningitis || meningitis door niet-gespecificeerde oorzaak
+C0006012 || Borderline || persoonlijkheidsstoornis, borderline
+C0007799 || ventrikeldrainage || ventrikel, hersen-
+C0041471 || tyfus || vlektyfus
+C0004767 || cystes van klier van Bartholin || bartholincyste
+C0017189 || spijsverteringsstelsels || tractus gastrointestinalis
+C1176468 || bezinkingssnelheid van rode bloedcellen || rodebloedcelsedimentatiesnelheid
+C0036098 || oorspeekselklier || systema salivaria
+C0392535 || recht op abortus || zwangerschapsbeëindiging
+C0018026 || gouderts || gold
+C0018880 || He || he
+C0001956 || dronkaard || alcoholgebruiksstoornis
+C0039597 || teelballen || zaadbal
+C0028754 || gezette || zwaarlijvigheid
+C0037868 || spermatozoïden || zaadcel
+C0032371 || poliopatiëntjes || ziekte van heine-medin
+C0006826 || kankerpatiënten || neoplasma maligne
+C0028797 || Beroepsziekte || ziekten, beroeps-
+C0037868 || sperma || zaadcel
+C0002371 || hydroxiden || aluminum hydroxide
+C3839736 || huidsensibilisator || sensibilisatie
+C0036614 || zaad || sperma
+C0007285 || handwortelbeentjes || ossi carpi
+C0003615 || appendicitis || niet-gekwalificeerde appendicitis
+C0020538 || maligne hypertensie || hypertensie
+C0001175 || aidsslachtoffers || immunodeficiëntiesyndroom, verworven
+C0005847 || aders || vas sanguineum
+C0016664 || stressfracturen || vermoeidheidsfractuur
+C0040053 || bloedbaan kunnen verstoppen || trombose
+C0040616 || rustgevers || psychorelaxans
+C0018991 || Hemiplegie || paralyse eenzijdig
+C0162316 || bloedarmoede || sideropenische anemie
+C0015450 || gezichtsuitdrukkingen || gezicht
+C0001261 || Actinomycosis cutaneum || mycose, actino-
+C0007285 || handwortel || ossi carpi
+C2975435 || Edoxaban || edoxaban
+C0021359 || onvruchtbaar || onvruchtbaarheid
+C0200949 || bloedkweken || kweek bloed
+C0042993 || vrouwelijk geslachtsorgaan || vulva
+C0006675 || Calcium || kalzium
+C0024204 || lymfeknopen || nodus lymphoideus
+C0005683 || graveel || vesicolithiasis
+C0074732 || soda || sodium salt of carbonic acid
+C0024305 || non-hodgkinlymfomen || ziekte van non-hodgkin
+C0152186 || masturbatiescène met een paard || zoöfilie
+C0007012 || koolzuur || carbon dioxide
+C0200966 || gram-positieve bacteriën || gramkleuring
+C0001074 || achillespezen || tendo calcaneus
+C0015663 || vastten || vasten
+C0037868 || spermatozoïde || zaadcel
+C0008767 || litteken || littekenvorming
+C0178417 || Anhedonie || verlies van vermogen tot vreugde
+C0221245 || kloofjes || kloofjes
+C0007570 || glutenalergie || spruw, niet-tropische
+C0074393 || Zoloft || sertralinum
+C3263723 || snij- en steekwonden || trauma
+C0017681 || stemspleet || glottis
+C0009319 || Colitis || ontsteking van het colon
+C0009326 || erfelijke bindweefselaandoeningen || ziekte, collageen-
+C0037763 || krampen || spierspasmen
+C0054858 || "ortho"-hydrochinon || pyrocatechol
+C0162429 || verkeerde voeding || malnutritie
+C0024198 || Lymeziekte || ziekte, lyme-
+C0009010 || Clomipramine || monochlorimipramine
+C0032825 || hypokaliëmie || potassium chloride
+C0679560 || analyse van DNA || genetisch onderzoek
+C0225870 || septa || septum ventriculorum cordis
+C0007939 || Spaanse pokken || syfilitische venerische zweer
+C0026946 || oppervlakkige schimmelinfecties || schimmelziekte
+C0030646 || plakproeven || tests, epicutane
+C0224637 || PIP- || proximaal interfalangeaal gewricht van vinger
+C0004352 || Autist || vroegkinderlijk autisme
+C0003289 || antidepressivum || ANTIDEPRESSANTS
+C0152427 || polydactylisch || polydactylie, tenen of vingers niet-gespecificeerd
+C0036581 || selenium || selenium, elemental
+C0021400 || influenza || syndroom griep
+C0375111 || tumoren || neoplasma van niet-gespecificeerde oorsprong, plaats niet-gespecificeerd
+C0031939 || Epifyse || structuur van glandula pinealis
+C0018989 || verlammingen || hemiparese
+C0021440 || intraveneus || intraveneuze infusies
+C0002333 || xanax || 8-chloro-1-methyl-6-phenyl-4h-s-triazolo(4,3-a)(1,4)benzodiazepine
+C0035527 || vitamine B || vitamine b2
+C0393770 || insomnia || vertraagde-slaapfasesyndroom
+C3714497 || astma-aanval || reactieve luchtwegenziekte
+C0037763 || krampende || spierspasmen
+C0024305 || non-Hodgkinlymfoom || ziekte van non-hodgkin
+C0024530 || moeraskoorts || plasmodium-infectie
+C0009319 || dikke darmontsteking || ontsteking van het colon
+C0034494 || hondsdolle || rabies-virusinfectie
+C0043217 || hakhout || hout
+C0152249 || Acne || acne varioliformis
+C0032708 || Porfyrie || stoornis van porfyrinemetabolisme
+C2718310 || geslachtscellen || gonocytus
+C0043217 || hakhoutoogst || hout
+C0017168 || refluxziekte/maaglaryngitis || reflux, gastro-oesofageale
+C0152457 || Kayser-Fleischerring || ring van kayser-fleischer
+C0012403 || DMSO || s(o)me2
+C0011311 || knokkelkoorts || knokkelkoorts
+C0027092 || bijziend || myopia
+C0020443 || verhoogd cholesterol || hypercholesteremie
+C0041296 || tuberculose- || infectieus proces door mycobacterium tuberculosis
+C0003850 || slagaderverharding || vasculaire sclerose
+C0007806 || "liquor" || vloeistof, cerebrospinale
+C0013100 || Dracunculiasis || guineaworminfectie
+C0152186 || geitenneuker || zoöfilie
+C0037993 || milt- || splen
+C0038356 || Maagkanker || tumoren, maag-
+C0016904 || GABA-complex || ω-aminobutyric acid
+C0008520 || chorioides || vaatvlies
+C0041755 || neveneffect || medicatiegeïnduceerde bijwerking
+C0003232 || Antibiotica || antibiotica
+C3536965 || sulfaten || sulfuric acid ion(2-)
+C0040053 || longtrombose || trombose
+C0027708 || wilmstumor || wilms' tumor
+C0039987 || T1-T6 || wervel, thoracale
+C0008318 || vitamine D3 || vitamin d3
+C0001175 || HIV/AIDS || immunodeficiëntiesyndroom, verworven
+C0037868 || zaadcellen || zaadcel
+C0033487 || Propofol || propofolum
+C0014994 || etherische || ethyl ether
+C0002792 || systemische reactie || systemische anafylaxe
+C0016204 || scheten || winderigheid als symptoom
+C0030297 || pancreascarcinoom || pancreasneoplasma
+C0023241 || legionellabemetting || ziekte, legionairs-
+C5203670 || covidbesmettingen || coronavirusziekte 2019
+C0497327 || dementerend || dementia
+C0876769 || ijzerpentacarbonyl || iron, carbonyl
+C0304441 || Theofylline || theophylline, anhydrous
+C0018067 || gonaden || gonaden
+C0005767 || mensenbloed || haema
+C0030318 || paniekuitbraak || reactie panisch
+C0023014 || taalontwikkelingsstoornis (TOS) || taalontwikkelingsstoornissen
+C0520949 || koopverslaving || dwangmatig kopen
+C5203670 || Coronavirus || coronavirusziekte 2019
+C0741453 || bedlegerige || bedlegerig
+C1456784 || syndroom van Kraepelin || ziekelijke achterdocht
+C0152459 || striatie || test
+C0008188 || librium || methaminodiazepoxide
+C0267792 || leverfalen || lever- en galwegaandoening
+C0036557 || sedatief || kalmeringsmiddel
+C0004057 || Aspro || ácido acetilsalicílico
+C0018067 || geslachtsklieren || gonaden
+C0087111 || therapeute || therapieën
+C0025424 || kwikkruid || mercury
+C0279516 || antibacteriële || antibioticum
+C0037944 || wervelkanaalstenoses || wervelkolomvernauwing
+C0497327 || seniele || dementia
+C0035078 || uremie || renale insufficiëntie
+C0020274 || HF (waterstoffluoride) || hydrogenfluorid
+C0016204 || flatus || winderigheid als symptoom
+C0015672 || vermoeidheid || vermoeid
+C0007012 || koolstofdioxide-atmosfeer || carbon dioxide
+C3839736 || sensibiliseren || sensibilisatie
+C0009079 || Clozapine || clozapinum
+C0205721 || post-operatieve infecties || ziekenhuisopnamegeassocieerde infectie
+C0546884 || bloedvolume || volumedepletie
+C0224637 || PIP || proximaal interfalangeaal gewricht van vinger
+C0020490 || hypermetropie || verziendheid
+C0021125 || snelle reacties || impulsief gedrag
+C0027882 || zenuwbanen || zenuwcellen
+C0008161 || trichlooracteetaldehyde || trichloroacetaldehyde hydrate
+C0149523 || urinewegontstekingen || cystitis acuut
+C0078774 || ZnCl || zinc chloride
+C0018880 || heliumgas || he
+C0017431 || genotypische || genotype
+C0029882 || otitis || middenoorontsteking
+C0032000 || hypofysegezwel || hypofyseadenoom
+C0022658 || chronische nierziekte || ziekten, nier-
+C0028754 || dikke mensen || zwaarlijvigheid
+C0228092 || ependym || ependymcel
+C0022346 || icterus || geelzucht
+C0042232 || Vagina || vagina
+C0017189 || maag-darmkanaal || tractus gastrointestinalis
+C3203533 || gevolgen || psychologisch trauma
+C0043217 || houtige gewassen || hout
+C0919267 || Ovariumcarcinoom || tumor van ovarium
+C0041936 || 1945 || stadsvernieuwing
+C0042345 || Spatader || venectasie
+C5203670 || het coronavirus || coronavirusziekte 2019
+C0392535 || abortus provocatus || zwangerschapsbeëindiging
+C3203533 || psychisch trauma || psychologisch trauma
+C0271215 || zicht || blindheid, wettelijke
+C0009450 || besmettelijke || ziekten, besmettelijke
+C2675897 || 1q21.1-deletiesyndroom || 1q21.1-microdeletie
+C0023343 || melaatsheid || ziekte van hansen
+C0020306 || hydrochinonen || quinol
+C0025611 || pervitine || methyl-β-phenylisopropylamine
+C0030247 || palpeerbaar || palpatie
+C3203533 || schade || psychologisch trauma
+C0085762 || zuipen || alcoholmisbruik, niet-gespecificeerd drinkgedrag
+C0010520 || cyanotische || cyanotisch
+C0028754 || wegen || zwaarlijvigheid
+C0002622 || anterograde amnesie || geheugenverlies
+C0684275 || Hemofilie || hemofilie
+C0036614 || ejaculaat || sperma
+C0011053 || halfdoof || surditas
+C0038984 || transpireren || zweet
+C0014994 || Di-ethylether || ethyl ether
+C0025584 || middenvoetsbeentje || ossa metatarsalia
+C0070570 || carbolzuur || phenylic alcohol
+C0001956 || drankprobleem || alcoholgebruiksstoornis
+C0006701 || kalkmelk || calcium hydroxide
+C0006826 || kwaadaardige tumoren || neoplasma maligne
+C0006413 || Burkittlymfoom || lymfoom, burkitt-
+C0037199 || voorhoofdsholte-ontsteking || sinusinfectie
+C0048318 || 4-methoxyfenol || mequinol
+C0032460 || polycystisch ovariumsyndroom || syndroom, polycysteus-ovarium-
+C0006681 || Calciumcarbonaat || kohlensaurer kalk
+C0016540 || Voorhoofd || voorhoofd
+C0043217 || timmerhout || hout
+C0039503 || tendinitis || peesontsteking
+C0036474 || "scorbutus" || scorbuut
+C0152249 || jeugdpuistjes || acne varioliformis
+C0071772 || salpeter || potassium nitrate
+C0031437 || fenotypische || fenotype
+C0027950 || neutrofielen || polymorphonucleaire leukocyt
+C0037868 || Zaadcel || zaadcel
+C0013595 || handeczeem || eczematoïde dermatitis
+C0010834 || cytoplasmatisch || cytoplasma
+C0225870 || septum || septum ventriculorum cordis
+C0232693 || rommelende maag || ingewandsgeluiden
+C0025677 || MTX || n-[4-[[(2,4-diamino-6-pteridinyl)methyl]methylamino]benzoyl]-l-glutamic acid
+C0010834 || plasmadraden || cytoplasma
+C0011053 || dove || surditas
+C0279516 || bactericidisch || antibioticum
+C0286651 || Atorvastatine || atorvastatinum
+C0018787 || cardio || structuur van hart
+C0007012 || kooldioxide || carbon dioxide
+C0020274 || vloeizuur || hydrogenfluorid
+C0232488 || kramp || koliek abdominaal
+C0150421 || Heimlichmanoeuvre || handgreep van heimlich
+C0027066 || myoclonische || myoclonus
+C0528023 || Cerivastatine || cerivastatin
+C0040630 || transgender || transseksualiteit met niet-gespecificeerde seksuele geschiedenis
+C0152036 || immunoloog || immunologie
+C0018943 || hematologische || hematologie
+C1572489 || epsomzout || magnesium sulfate anhydrous
+C0038446 || visuele schors || striatale cortex
+C0152448 || fijt || fijt
+C0271215 || blind || blindheid, wettelijke
+C0001175 || HIV/Aids || immunodeficiëntiesyndroom, verworven
+C0005036 || benzol || fenylhydride
+C0005767 || bloeddeeltjes || haema
+C0003842 || arterie || slagaders
+C0221508 || zenuwtoeval || zenuwinzinking
+C0024620 || lever || primaire kanker van de lever
+C5203670 || Corona || coronavirusziekte 2019
+C2985290 || foetale-alcoholsyndroom (FAS) || fetal alcohol spectrum disorder
+C0023570 || Levodopa || β-(3,4-dihydroxyphenyl)alanine
+C0013473 || eet || eetstoornis
+C0266836 || huilbaby's || zuigelingenkoliek
+C0392535 || Abortus || zwangerschapsbeëindiging
+C0458394 || groeven || sulcus cerebrali
+C0005038 || Lindaan || γ-lindane
+C0017189 || maagdarmkanaal || tractus gastrointestinalis
+C0032273 || Pneumoconiose || stoflong
+C0042993 || voortplantingsorganen van een vrouw || vulva
+C0003818 || rattenkruid || as
+C0728899 || intoxicerende || intoxicatie
+C0040034 || heparine-geinduceerde thrombocytopenie || trombopenie
+C0003087 || enkels || enkelgewricht
+C0152025 || polyneuropathieën || polyneuropathie
+C3203533 || schokkende ervaring || psychologisch trauma
+C0041296 || tuberculose (tbc) || infectieus proces door mycobacterium tuberculosis
+C3669209 || sacrale wervel || sacrale wervelkolom
+C0036277 || scapulae || schouderblad
+C0200966 || gram-positieve || gramkleuring
+C0040558 || Toxoplasmose || toxoplasma-gondii-infectie
+C0024305 || lymfoom || ziekte van non-hodgkin
+C0024348 || lyserende werking || lysis
+C0035286 || Reticulocyt || reticulocyten
+C0237326 || verstopt || pijnlijke defecatie
+C0025007 || mazelenepidemie || rubeolavirusinfectie
+C0231528 || pijn aan de spieren || spierpijnen gegeneraliseerd
+C0043047 || warm water || dihydrogen oxide
+C3203533 || traumatische || psychologisch trauma
+C0037303 || crania || schedel
+C0037004 || schoudergewricht || schouderregio
+C0006507 || BHT || butylhydroxytoluene
+C0030764 || pedoseksuelen || pedofilie
+C0154564 || slaapproblemen || specifieke slaapstoornissen van niet-organische oorsprong
+C0025424 || kwikhoudende verbindingen || mercury
+C0087111 || behandeling || therapieën
+C0008203 || chloriden || chloridezout
+C0012833 || duizeligheidsklachten || licht in het hoofd
+C0040630 || transgenderisten || transseksualiteit met niet-gespecificeerde seksuele geschiedenis
+C0018549 || Halothaan || halothanum
+C0002371 || aluminiumhydroxidegel || aluminum hydroxide
+C0011053 || dover || surditas
+C0010834 || plasmagroei || cytoplasma
+C0022568 || hoornvliesontsteking || ontsteking cornea
+C0008984 || clitorisstimulatie || clitoris
+C0037050 || Sickbuildingsyndroom || syndroom, sickbuilding-
+C0018671 || stembanden || tumoren, hoofdhals-
+C0023241 || legionella || ziekte, legionairs-
+C0018787 || hartproblemen || structuur van hart
+C0026946 || schimmelziekte || schimmelziekte
+C0007018 || koolmonoxidevergiftiging || koolstofmonoxide
+C0012691 || ontwrichting || ontwrichting
+C0086543 || cataract || cataracten
+C0002871 || lage hoeveelheid rode bloedcellen || bloedarmoede
+C0042929 || poliep || stembandpoliep
+C0001956 || alcoholistische || alcoholgebruiksstoornis
+C0004754 || bariet || barium sulfate
+C0008149 || Chlamydiasis || infecties, chlamydia-
+C0012010 || Diazepam || methyl diazepinone
+C0266836 || huilbaby’s || zuigelingenkoliek
+C2718310 || voortplantingscellen || gonocytus
+C0033975 || psychotische stoornissen || psychotische stoornissen
+C0024091 || lumbale wervel || wervel, lenden-
+C0036690 || Sepsis || septikemie
+C0002520 || α-aminozuur || amino acids NOS
+C1262477 || afvallen || verloren gewicht
+C0224637 || PIP-gewricht || proximaal interfalangeaal gewricht van vinger
+C0028754 || corpulente || zwaarlijvigheid
+C0027066 || ziekte van Van Leeuwenhoek || myoclonus
+C0028784 || ossa paroccipitalia || os occipitale
+C0144576 || taxol || 5beta,20-epoxy-1,2-alpha,4,7beta,10beta,13alpha-hexahydroxytax-11-en-9-one 4,10-diacetate 2-benzoate 13-ester with (2R,3S)-n-benzoyl-3-phenylisoserine
+C3839736 || sensibiliserend || sensibilisatie
+C0017189 || darmfunctie || tractus gastrointestinalis
+C0027882 || neuron || zenuwcellen
+C0028013 || vernikkeld || nickel
+C0026884 || stomme || mutisme
+C0032371 || poliovaccins || ziekte van heine-medin
+C0728899 || vergiftigd || intoxicatie
+C1281743 || blastula || embryo, preïmplantatie
+C0060229 || ferrichloride || iron perchloride
+C0200966 || grampositieve || gramkleuring
+C0024894 || borstontsteking || mastitis
+C1456784 || paranoïde wanen || ziekelijke achterdocht
+C0001175 || hiv-positief || immunodeficiëntiesyndroom, verworven
+C0476254 || dyslectische || woordblindheid
+C0199470 || kunstmatige beademing || ventilatie, mechanische
+C0032371 || polio-epidemie || ziekte van heine-medin
+C0013884 || lymfatische filariasis || lymfatische filariasis
+C0010200 || Hoest || hoest
+C0007610 || Celkern || kern, cel-
+C0031099 || paradontale || periodontitis
+C0034504 || Met || racemethionine
+C0001927 || ventolin || salbutamolum
+C3536965 || dialkylsulfaten || sulfuric acid ion(2-)
+C0086418 || Aardse mensen || mensheid
+C0032273 || stoflongen || stoflong
+C0028013 || nikkelionen || nickel
+C0200966 || gram-negatieve || gramkleuring
+C0031437 || fenotypisch || fenotype
+C0037354 || kinderpokken || variola
+C0029180 || orbita || orbita
+C0442874 || zenuwziektes || zenuwaandoening
+C0006655 || calcaneus || os calcis
+C0001818 || agorafobische || pleinvrees
+C0003868 || jigt || jicht artropathie
+C0089147 || butaan-1-ol || butyl alcohol
+C0008203 || chloride-ion || chloridezout
+C0020538 || essentiële hypertensie || hypertensie
+C0060229 || ijzer(III)chloride || iron perchloride
+C0079840 || koemelkeiwitallergie || overgevoeligheid, melk-
+C0032821 || K || potassium, metal
+C0023176 || loodverontreiniging || vergiftiging, lood-
+C0015269 || exhibitionistische || potloodventer
+C0025500 || borstvlieskanker || mesothelioom
+C0071767 || kalium- || ätzkali
+C0200966 || gramnegatief || gramkleuring
+C0035237 || ademhaling || systema respiratorium
+C0179412 || borstimplantaten || implantaat, borst-
+C0005779 || stollingsziekten || stollingsstoornis
+C0024706 || Mn || mn
+C0282312 || pestuitbraak || builenpest
+C0005558 || monsters || biopsie
+C4083212 || kalend || mannelijk kaalheidspatroon
+C0236802 || dysforie || geslachtsidentiteitsstoornis op kinderleeftijd
+C0022237 || propaan-2-ol || propan-2-ol
+C0344106 || sederende || sedatieverrichting
+C0039614 || Tetanus || infectieus proces door clostridium tetani
+C0150421 || heimlichgreep || handgreep van heimlich
+C0033578 || prostatectomie || tumoren, prostaat-
+C0006681 || koolzure kalk || kohlensaurer kalk
+C0005036 || benzenen || fenylhydride
+C0001956 || alcoholieker || alcoholgebruiksstoornis
+C0018067 || geslachtsklier || gonaden
+C0497327 || dementieën || dementia
+C0028754 || dik || zwaarlijvigheid
+C0033975 || psychotische symptomen || psychotische stoornissen
+C0074722 || natriumbicarbonaat || zuiveringszout
+C0022663 || glomerula || nierfilter
+C0011253 || psychologische waan || waanvoorstellingen
+C0023570 || L-dopa || β-(3,4-dihydroxyphenyl)alanine
+C0013443 || gehoororganen || oor
+C0016667 || Fragiele-X-syndroom || syndroom, fragiele-x-
+C0027092 || myopie || myopia
+C0004743 || Veronal || barbital
+C0002622 || anterograde - en zware retrograde amnesie || geheugenverlies
+C0001916 || albino’s || albinisme
+C0028351 || norepinefrine || norepinephrinum
+C0031150 || laparoscopische || kijkoperatie
+C1269537 || hersenlijden || gehele encephalon
+C0026727 || -"mucus" || slijm
+C0024204 || lymfeknoop || nodus lymphoideus
+C0200966 || grampositief || gramkleuring
+C0202474 || Strychnine || strychnine
+C0022568 || hoornvliesontstekingen || ontsteking cornea
+C0031046 || hartvliesontsteking || pericarditis
+C0000962 || kom || heupkom
+C0016976 || galwegen || vesica fellea
+C0019294 || liesbreuken || liesbreuk
+C0027092 || bijziende || myopia
+C0020538 || hypertensieve veranderingen || hypertensie
+C0032718 || poortaderstelsel || vena portae hepatis
+C0043031 || Warfarine || zoocoumarin
+C0031153 || de bekleding van de onderbuik || peritoneum
+C0034372 || geheel verlamde || quadriplegie
+C0039337 || smaakreceptoren || structuur van smaakknop
+C0026603 || zeeziektegarantie || ziekte, bewegings-
+C0027401 || narcistisch || narcisme
+C0001480 || ATP || adenosine-5'-triphosphate
+C0725616 || citraat || citric acid,anhydrous
+C0026820 || verkrampen || spiercontractie
+C0040630 || geslachtsverandering || transseksualiteit met niet-gespecificeerde seksuele geschiedenis
+C0458394 || sulcus || sulcus cerebrali
+C1283370 || Hongeroedeem || alimentair oedeem
+C0041175 || Tromethamine || trometamol
+C0034186 || nierbekkenontsteking || nierbekkenontsteking
+C0282550 || Golfsyndroom || perzische golfsyndroom
+C0001956 || alcoholici || alcoholgebruiksstoornis
+C5203670 || coronacrisis || coronavirusziekte 2019
+C0034272 || B6 || pyridoxol
+C0024204 || lymfklieren || nodus lymphoideus
+C0038131 || stotteraars || stotteren
+C0024530 || moeraskoortsaanval || plasmodium-infectie
+C0034494 || hondsdol || rabies-virusinfectie
+C5203670 || Covid19 || coronavirusziekte 2019
+C0004153 || slagaderverkalking || atherosclerotische cardiovasculaire ziekte, als zodanig omschreven
+C0018787 || cardiaal || structuur van hart
+C0001956 || alcoholprobleem || alcoholgebruiksstoornis
+C3263723 || wondgenezing || trauma
+C0040184 || tibia || tibia
+C0016142 || pyromaan || pathologische brandstichting [pyromanie]
+C0000786 || doodgeboren || spontane miskraam
+C0036572 || convulsieve aanvallen || stuip
+C0018524 || hallucinogene || hallucineren
+C0034627 || spaakbeen, "radius" || spaakbeen
+C0018790 || hartverlamming || ventriculaire stilstand
+C0041296 || tering || infectieus proces door mycobacterium tuberculosis
+C0200966 || gram-positieve als gram-negatieve || gramkleuring
+C0001080 || dwerg || chondroplasie, a-
+C0033975 || psychotische aanval || psychotische stoornissen
+C0038627 || Anectine || suxamethonium
+C0242422 || parkinsonverschijnselen || stoornissen, parkinsonachtige
+C0023186 || leerstoornissen || leerstoornis
+C0919974 || Aboulie || abulie
+C0029939 || eierstokken || ovarium
+C0012634 || medische aandoening || ziekte
+C0237326 || obstipatie || pijnlijke defecatie
+C0917805 || tia’s || voorbijgaande cerebrale ischemie
+C0231835 || tachypneu || versnelde ademhaling
+C0023343 || Lazarusziekte || ziekte van hansen
+C0033975 || psychotische verschijnselen || psychotische stoornissen
+C0036098 || speeksel- || systema salivaria
+C0013443 || auditieve || oor
+C0006370 || Boulimie || boulimie
+C0038293 || sternum || sternum
+C0040610 || Tramadol || tramadolum
+C0014038 || encefalitis || ontsteking, hersen-
+C0016330 || fluorgas || fluorine
+C0005682 || blazen || vesica urinaria
+C0126174 || Losartan || 2-n-butyl-4-chloro-5-hydroxymethyl-1-[(2'-(1h-tetrazol-5-yl)biphenyl-4-yl)methyl]imidazole
+C0008377 || cholesterolmetabolisme || cholest-5-en-3beta-ol
+C0036429 || gesclerotiseerd || sclerosis
+C0041296 || darmtuberculose || infectieus proces door mycobacterium tuberculosis
+C0005834 || afnemen van bloed || bloedafname voor laboratoriumonderzoek
+C0041671 || Attention Deficiency Disorder || aandachtstekortstoornis
+C0023884 || lever- || lever
+C0010520 || cyanotisch || cyanotisch
+C0332575 || erythemateuze || roodkleurig
+C0035237 || ademhalingssysteem || systema respiratorium
+C2675897 || Class II-deletie || 1q21.1-microdeletie
+C0036087 || kwijlt || saliva
+C0086418 || persoon || mensheid
+C0012634 || ziekenzorg || ziekte
+C0039062 || synaptisch || synapsis
+C0030764 || oude mannetjes || pedofilie
+C0023343 || lepralijder || ziekte van hansen
+C0024091 || lumbale || wervel, lenden-
+C0003864 || Artritis || polyarthritis
+C0004743 || veronal || barbital
+C0027819 || ziekte van Hutchinson || blastoom, neuro-
+C0024031 || spit || spit
+C0037506 || SLS || sodium lauryl sulfate
+C0087111 || praattherapie || therapieën
+C0025080 || medische hulpmiddelen || medische voorzieningen
+C0001956 || dronkenlap || alcoholgebruiksstoornis
+C0006826 || kankergezwel || neoplasma maligne
+C0021345 || ziekte van Pfeifer || ziekte van pfeiffer
+C0041296 || TBC-Sanatorium || infectieus proces door mycobacterium tuberculosis
+C0024517 || depressie || ernstige depressieve stoornis, eenmalige episode
+C0238402 || Pycnodysostose || pycnodysostose
+C0021044 || immuunhistochemisch || immunohistochemie
+C0596981 || spiercellen || spiercellen, rijpe
+C0010691 || Cystinuria || cystinurie
+C0001956 || Drank maakt meer kapot dan je lief is || alcoholgebruiksstoornis
+C0072225 || propyleenglycol || α-propyleneglycol
+C0458394 || sulci || sulcus cerebrali
+C0010834 || plasmalagen || cytoplasma
+C0041296 || tbc-patiënten || infectieus proces door mycobacterium tuberculosis
+C5203670 || covid-19 || coronavirusziekte 2019
+C0030764 || pedofielennetwerk || pedofilie
+C0026237 || mitochondrium || mitochondrium
+C0040425 || angina || ontsteking van amandelen
+C0221074 || postpartumdepressie || puerperale depressie
+C0027339 || Onychopathie || ziekten, nagel-
+C0236811 || circadianeritme-slaap-waakstoornissen || aandoening, chronobiologische
+C0022346 || geel || geelzucht
+C0206698 || galwegkanker || galwegkanker
+C0025584 || middenvoetbeen || ossa metatarsalia
+C0039590 || testiscarcinoom || testisneoplasma
+C0025424 || kwikverbindingen || mercury
+C0003868 || podagra || jicht artropathie
+C0036557 || niet-sederend || kalmeringsmiddel
+C0043047 || Water || dihydrogen oxide
+C0009450 || besmettelijke ziekte || ziekten, besmettelijke
+C0006222 || broom || bromides
+C0014520 || opperhuid || opperhuid
+C0016390 || schuimcellen || xanthoomcel
+C0001465 || adenosinemonofosfaat (AMP) || phosphate d'adénosine
+C0003420 || fenazon || phenazone
+C0015560 || eileiders || tubae uterinae
+C0002438 || amoebische dysenterie || infectieziekte door slijmdiertje
+C0018989 || paraparese || hemiparese
+C0227130 || tandkassen || alveolus dentalis
+C5203670 || coronavirus || coronavirusziekte 2019
+C0683416 || DPS || depersonalisatiesyndroom
+C0003232 || antibioticakuur || antibiotica
+C0024947 || bovenkaaks || maxilla
+C0025500 || asbestkanker || mesothelioom
+C0002371 || Al(OH) || aluminum hydroxide
+C0026237 || mitochondriaal || mitochondrium
+C3495442 || fantoom || fantoompijn
+C0033975 || psychoneurosen || psychotische stoornissen
+C0332575 || erythemateuse || roodkleurig
+C0034014 || schaambeenderen || schaambeen
+C2939420 || uitgezaaid || metastatisch neoplasma
+C0017601 || Glaucoom || glaucoom
+C0031154 || peritonitis || buikvliesontsteking
+C0026549 || Morfine || morphium
+C0575158 || 'gebochelden' || kyfoscoliose
+C0016167 || anale fissuur || fissuur anaal
+C0006309 || Brucellose || middellandse zeekoorts
+C0021359 || niet voortplanten || onvruchtbaarheid
+C0013443 || binnenoor || oor
+C0014609 || hoogzuilvormig || epithelium
+C0007874 || cervix || cervix uteri
+C0012691 || heupluxatie || ontwrichting
+C0016564 || methanal || oxymethylene
+C0022104 || PDS || syndroom, prikkelbaredarm-
+C0013450 || hamersteel || ossicula auditus
+C0016658 || ribfractuur || gebroken botten
+C0005122 || Beriberi || vitamine-b1-tekort
+C0032371 || kinderverlamming || ziekte van heine-medin
+C0006012 || stoornis Borderline || persoonlijkheidsstoornis, borderline
+C0014520 || huid || opperhuid
+C0013604 || waterzucht || waterzucht
+C0019079 || bloeding in de longen || sputum bloederig
+C0015269 || flashen || potloodventer
+C0043217 || Hout || hout
+C0004153 || aderverkalking || atherosclerotische cardiovasculaire ziekte, als zodanig omschreven
+C0460002 || orgaanstelsel || tractus
+C0008149 || seksueel overdraagbare ziekten || infecties, chlamydia-
+C0085762 || drankmisbruik || alcoholmisbruik, niet-gespecificeerd drinkgedrag
+C5203670 || COVID-19-pandemie || coronavirusziekte 2019
+C0520949 || kopen || dwangmatig kopen
+C0032718 || vena hepatica || vena portae hepatis
+C0038702 || sulfonamide || sulphanilamide
+C0026820 || samentrekkend || spiercontractie
+C0265554 || krabbehanden || kreeftenhand of kreeftenvoet
+C0020264 || Hydrocodon || idrocodone
+C0679247 || terminale || terminale ziekte
+C0021792 || schakelcellen || interneuronen
+C0271215 || visuele || blindheid, wettelijke
+C0028013 || Ni (nikkel) || nickel
+C0162770 || verdikking van de wand van de rechterkamer || ventrikelhypertrofie, rechter-
+C0032460 || PCOS || syndroom, polycysteus-ovarium-
+C0024348 || lyse van cellen || lysis
+C0026473 || monocyten || monocyten
+C0016330 || F || fluorine
+C0023343 || leprozerie || ziekte van hansen
+C0022821 || hyperkyfose || hyperkyfose
+C0032285 || pneumonie || pulmonitis
+C0042232 || vrouwelijke geslacht || vagina
+C0012634 || zieke || ziekte
+C0043388 || yaws || yaws
+C0027794 || neuralebuisdefecten || ontwikkelingsdefect, neuralebuis-
+C0007012 || CO-behandeling || carbon dioxide
+C0012691 || uit de kom || ontwrichting
+C0000726 || abdominale || structuur van abdomen
+C3263723 || niertrauma || trauma
+C1136179 || Hamerteen || hamerteen
+C0025627 || quaaludes || methaqualone
+C0002903 || verdoving || verdoving
+C0043217 || houten || hout
+C0020255 || hydrocefalie || waterhoofd
+C0020538 || persisterende hypertensie || hypertensie
+C0340464 || ritmestoornissen || prematuur cardiaal complex
+C0001956 || zuipschuit || alcoholgebruiksstoornis
+C0302142 || teratologie, de kennis van aangeboren misvormingen || misvorming
+C0039729 || Thalamus || thalamus
+C0874161 || Oseltamivir || oseltamivirum
+C0014994 || ethergeur || ethyl ether
+C0042232 || schede || vagina
+C0216784 || Valsartan || n-pentanoyl-n-{[2'-(1h-tetrazol-5-yl)biphenyl-4-yl]methyl}-l-valine
+C0022951 || lactose-intolerant || lactosemalabsorptie
+C0003232 || antibiotica || antibiotica
+C0012634 || zieken || ziekte
+C0016904 || γ-aminoboterzuur || ω-aminobutyric acid
+C0086418 || stervelingen || mensheid
+C0038131 || stottert || stotteren
+C0442874 || zenuwziekte || zenuwaandoening
+C0039062 || synaptische || synapsis
+C0032821 || kaliumgehalte || potassium, metal
+C1258215 || Ileus || ileus van ingewanden
+C0040053 || thombo-embolie || trombose
+C0016732 || voorhoofdbeen || voorhoofdsbeen
+C0016365 || Prozac || fluoxetinum
+C0271215 || verblind || blindheid, wettelijke
+C1318312 || ijzer || serum ijzer
+C0037763 || convulsies || spierspasmen
+C0010055 || bypassoperaties || coronairebypassoperatie
+C0028784 || ossa exoccipitalia || os occipitale
+C0013030 || dopaminerge || oxytyramine
+C0026820 || samen te trekken || spiercontractie
+C0086418 || menselijke soort || mensheid
+C0000786 || miskramen || spontane miskraam
+C0520949 || winkelverslaving || dwangmatig kopen
+C0043339 || Xenon || xe
+C0026237 || mitochondriale || mitochondrium
+C0003175 || Miltvuur || miltvuur
+C0074732 || sodaproductie || sodium salt of carbonic acid
+C0018026 || gouden medaille || gold
+C0028754 || zwaarlijvige || zwaarlijvigheid
+C0018941 || bloedspiegelbepaling || onderzoek, hematologisch
+C0276289 || zika || zikavirusinfectie
+C0003431 || Antisociale Persoonlijkheidsstoornis || sociopathische persoonlijkheid
+C0006840 || spruw || moniliasis
+C0014563 || adrenerge || epinephrinum
+C0010520 || blauw van kleur || cyanotisch
+C0019079 || hemoptoë || sputum bloederig
+C0002871 || anemie || bloedarmoede
+C1457883 || Agressie || strijdlustige reactie
+C0010674 || Taaislijmziekte || taaislijmziekte
+C0030049 || oxycontin || oxycodonum
+C0024117 || cara || obstructieve luchtwegaandoening (chronisch)
+C0200966 || Gram-negatieve || gramkleuring
+C0162352 || Desensibilisatie || immunotherapie, allergenen
+C0002771 || analgetica || pijnstiller
+C0002622 || vergeten || geheugenverlies
+C0032821 || kalium-ionen || potassium, metal
+C0006142 || borstkankerpatiënten || maligne tumor van mamma
+C0020899 || functioneel analfabetisme || analfabetisme
+C0036572 || stuipen || stuip
+C0036690 || septicemie || septikemie
+C0086418 || menselijk ras || mensheid
+C0038984 || afscheiding || zweet
+C0017189 || darm || tractus gastrointestinalis
+C0032825 || KCl || potassium chloride
+C0041445 || trommelvliezen || trommelvlies
+C0040592 || trachoma || trachoom niet-gespecificeerd
+C0009946 || conversieverschijnselen || reactie conversie
+C0152186 || dierenporno || zoöfilie
+C0261590 || bestraling || radiologische verrichting en radiotherapie
+C0040630 || transgenderisme || transseksualiteit met niet-gespecificeerde seksuele geschiedenis
+C0232488 || darmkrampjes || koliek abdominaal
+C0014597 || epitheelcellen || epitheelcellen
+C0037354 || Pokken || variola
+C3263723 || wondje || trauma
+C0018021 || struma || zwelling van de schildklier
+C0028215 || lachgas || óxido nitroso
+C0982396 || natriummonowaterstoffosfaat || sodium phosphate,dibasic,anhydrous
+C0002658 || benzedrine || β-aminopropylbenzene
+C0542346 || puistje || pustula
+C0032231 || borstvliesontsteking || pleuritis (excl. TBC)
+C0030554 || paresthesieën || paresthesie
+C0037004 || schoft || schouderregio
+C0034627 || radialis || spaakbeen
+C0006675 || kalkopname || kalzium
+C0026237 || Mitochondria || mitochondrium
+C0004352 || autistische || vroegkinderlijk autisme
+C0020555 || weerwolfsyndroom || trichose, hyper-
+C0014544 || epileptische || insult
+C3203533 || trauma's bij kinderen || psychologisch trauma
+C0016360 || 5-fluorouracil || fluouracil
+C0025202 || Melanoma || melanoom maligne
+C0043369 || kauwgom met de zoetstof Xylitol || xylitol
+C3665420 || nekwervel || wervel, hals-
+C2939420 || uitzaait || metastatisch neoplasma
+C5203670 || COVID-19 virus || coronavirusziekte 2019
+C0024947 || bovenkaak || maxilla
+C0002563 || δ-Aminolevulinezuur || δ-aminolevulinic acid
+C0458827 || luchtweg || luchtwegen
+C0204600 || afkickcentrum || geneesmiddeldetoxificatie
+C0066367 || 2-butanon || methylethyl ketone
+C0086418 || huidige mens || mensheid
+C0074748 || natrium- || sodium nitrate
+C0392535 || zwangerschapsafbreking || zwangerschapsbeëindiging
+C0039316 || tarsus || voetwortelbeentjes
+C0020651 || MSA || hypotensie, posturale
+C0018563 || rechterhand || hand
+C0042014 || urinestalen || urineanalyse
+C0032797 || excessief bloedverlies na een bevalling || postpartumhemorragie
+C0035412 || Rhabdomyosarcoom || sarcoom, rabdomyo-
+C0086418 || mensheid || mensheid
+C0002607 || ammoniakdepositie || ammonia
+C0038984 || zweetklieren || zweet
+C0042979 || kijklust || voyeurisme
+C0017472 || kiemblaadjes || kiembladen
+C0014479 || Efedrine || l-erythro-2-(methylamino)-1-phenylpropan-1-ol
+C0917805 || TIA || voorbijgaande cerebrale ischemie
+C0030471 || neusbijholte || sinus paranasalis
+C0024204 || lymfeklieren || nodus lymphoideus
+C0016125 || DIP-gewricht || vingergewricht
+C0037315 || obstructieve slaapapneu || syndroom, Slaap-apnoe-
+C0002903 || gedrogeerd || verdoving
+C0025677 || Methotrexaat || n-[4-[[(2,4-diamino-6-pteridinyl)methyl]methylamino]benzoyl]-l-glutamic acid
+C0007012 || CO2-uitstoot || carbon dioxide
+C0003723 || virusinfectie || infecties, arbovirus-
+C0036690 || bloedinfecties || septikemie
+C0686920 || verklaring || schrijven van doktersverklaring
+C0010674 || CF || taaislijmziekte
+C0024437 || Macula-degeneratie || maculadegeneratie
+C0087111 || Therapie || therapieën
+C0004793 || DNA-sequenties || volgorde, basen-
+C0261590 || bestraald || radiologische verrichting en radiotherapie
+C0003864 || gewrichtspijn || polyarthritis
+C0025526 || middenhands- || os metacarpi
+C0037518 || chloor || sodium hypochlorite
+C0020255 || hydrocefaal hoofd || waterhoofd
+C0041316 || scrufulose || tuberculose, lymfklier-
+C0007776 || corticale || schors, hersen-
+C0001465 || AMP || phosphate d'adénosine
+C0200966 || gramnegatief en grampositief || gramkleuring
+C0037763 || verkramping || spierspasmen
+C0003850 || cerebrale arteriosclerose || vasculaire sclerose
+C0018524 || hallucinaties || hallucineren
+C0928075 || pinna || pinna
+C0002333 || alprozalam || 8-chloro-1-methyl-6-phenyl-4h-s-triazolo(4,3-a)(1,4)benzodiazepine
+C0018524 || geurhallucinaties || hallucineren
+C0024706 || mangaan- || mn
+C0020663 || nucleus paraventricularis hypothalami || hypothalamus
+C0041671 || hyperactief || aandachtstekortstoornis
+C0221971 || haarfollikels || haarzakje
+C0041600 || ellepijp, "ulna" || ulna
+C0152036 || immunologisch || immunologie
+C0009763 || conjunctivitis || bindvliesontsteking
+C0015269 || potloodventer || potloodventer
+C0017536 || Giardiasis || lambliasis
+C0006309 || Brucella abortus || middellandse zeekoorts
+C0013369 || buikloop || dysenterie
+C0006968 || carbapenemen || carbapenems
+C0016327 || fluoride-ionen || fluoride
+C0423318 || kleurafwijking || heterochromie van iris
+C0035404 || resus-D-antagonisme || rhesus iso-immunisatie
+C0795859 || IDIC-15 || tetrasomie van lange arm van chromosoom 15
+C0077039 || CFCl || trichloromonofluoromethane
+C0034019 || Volksgezondheid || volksgezondheid
+C0152036 || immunologen || immunologie
+C0012833 || duizelingen || licht in het hoofd
+C0179412 || implantaten || implantaat, borst-
+C0013450 || gehoorbeentjes || ossicula auditus
+C0041755 || bijwerkingen || medicatiegeïnduceerde bijwerking
+C0000726 || abdominale huid || structuur van abdomen
+C0010055 || bypass-operatie || coronairebypassoperatie
+C0007874 || baarmoedermond || cervix uteri
+C0001818 || pleinvrees || pleinvrees
+C0018943 || hematoloog || hematologie
+C0120446 || guanidinium || iminourea
+C0040259 || voetschimmel || zwemmerseczeem
+C0085174 || Cytotec || misoprostolum
+C0031923 || Pilocarpine || pilocarpina
+C0035579 || Engelse ziekte || engelse ziekte
+C0001956 || alcoholgebruik || alcoholgebruiksstoornis
+C0036505 || talgproducerende || talgklieren
+C0026473 || mononucleair || monocyten
+C0023343 || leprozen || ziekte van hansen
+C0036601 || zelfverminking || zelfverwonding
+C0031050 || hartzakje || pericardium
+C0018133 || afstoting || ziekte, graft versus host-
+C0003842 || bekkenslagaders || slagaders
+C0028754 || obees || zwaarlijvigheid
+C0011134 || DEET || n,n-diethyl-m-toluamide
+C3839736 || sensibilisering || sensibilisatie
+C0021219 || indigotine || indigotine
+C3203533 || Psychotrauma || psychologisch trauma
+C0023031 || lanthanium || lanthanum
+C0011253 || wanen || waanvoorstellingen
+C0225897 || linkerhartkamer || ventriculus sinister cordis
+C0006681 || CaCO || kohlensaurer kalk
+C0242422 || Parkinson || stoornissen, parkinsonachtige
+C0883242 || mycofenolaatmofetil || mycophenolate
+C0031437 || fenotypische variatie || fenotype
+C0149523 || blaasontsteking || cystitis acuut
+C0014609 || epitheliaal || epithelium
+C0008913 || rechtersleutelbeen || sleutelbeen
+C0007012 || CO-opname || carbon dioxide
+C0009443 || gewone verkoudheid || verkoudheidssyndroom
+C0018026 || gouden || gold
+C0014597 || darmepitheel || epitheelcellen
+C0016564 || formaline || oxymethylene
+C3263723 || gewonde || trauma
+C1269537 || brein || gehele encephalon
+C0233619 || nymfomane || nymfomanie
+C0017189 || spijsverteringskanaal || tractus gastrointestinalis
+C0013595 || eczeem-achtige || eczematoïde dermatitis
+C0006901 || huidcapillairen || vas capillare
+C0005847 || haarvaten || vas sanguineum
+C0025611 || crystal meth || methyl-β-phenylisopropylamine
+C0070570 || plantenfenolen || phenylic alcohol
+C0023602 || Leydigcel || leydig-cel
+C0014544 || absence-epilepsie || insult
+C0013404 || ademnood || probleem met ademhaling
+C0018524 || gehoorhallucinaties || hallucineren
+C0762662 || Vioxx || rofecoxibum
+C0043217 || houtproductie || hout
+C0012634 || ziekbed || ziekte
+C0001956 || drankverslaving || alcoholgebruiksstoornis
+C0037379 || slangenbeten || vergiftiging door gif van slang
+C0007012 || kooldioxidegas || carbon dioxide
+C3203533 || traumatisch || psychologisch trauma
+C0008809 || Ciprofloxacine || ciprofloxacinum
+C3263723 || laesie || trauma
+C0267792 || leveraandoeningen || lever- en galwegaandoening
+C0019555 || dysplasie || heupdislocatie, congenitaal
+C0006255 || bronchusvaten || luchtpijptak
+C0025376 || demerol || petydyna
+C0021219 || indigo || indigotine
+C3839736 || gesensibiliseerde || sensibilisatie
+C0152249 || anti-puistmiddel || acne varioliformis
+C5203670 || coronapositieve || coronavirusziekte 2019
+C0031939 || epifyse || structuur van glandula pinealis
+C0016330 || fluormolecuul || fluorine
+C0008196 || sterilon || n,n'-bis(4-chlorophenyl)-3,12-diimino-2,4,11,13-tetraazatetradecanediimidamide
+C0022821 || bochel || hyperkyfose
+C0002771 || analgesie || pijnstiller
+C0392689 || watervergiftiging || overhydratatie
+C0016470 || allergenen || voedselovergevoeligheid
+C1527344 || dysfonie || fonatiestoornis
+C1457883 || agressiviteit || strijdlustige reactie
+C0024198 || lymepatiënt || ziekte, lyme-
+C0031153 || peritoneum || peritoneum
+C0041936 || Vernieuwing || stadsvernieuwing
+C0008203 || chloride-ionen-gehalte || chloridezout
+C0036601 || Automutilatie || zelfverwonding
+C0003087 || enkelgewricht || enkelgewricht
+C0529793 || viagra || sildenafilo
+C0031150 || laparoscopische procedure || kijkoperatie
+C0008913 || claviculaire || sleutelbeen
+C0021345 || Ziekte van Pfeiffer || ziekte van pfeiffer
+C0007012 || koolzuurblussers || carbon dioxide
+C0751587 || CADASIL-syndroom || cerebrale autosomaal dominante arteriopathie met subcorticale infarcten en leuko-encefalopathie
+C0027444 || Natamycine || pimaricin
+C0008913 || sleutelbeenderen || sleutelbeen
+C0021815 || tussenwervelschijven || tussenwervelschijf
+C0006655 || calcaneum || os calcis
+C0151699 || intracerebrale bloeding || intracraniale bloedingen
+C2718310 || gameten (geslachtscellen) || gonocytus
+C0014544 || epilepsieproblemen || insult
+C0271215 || blinden || blindheid, wettelijke
+C0035237 || respiratie of ademhaling || systema respiratorium
+C0037517 || natronloog (caustische soda) || white caustic
+C0029882 || oorontsteking || middenoorontsteking
+C0036572 || toeval || stuip
+C0030297 || pancreaskanker || pancreasneoplasma
+C0037005 || schouder uit de kom || traumatische schouderluxatie
+C0873006 || ijzersulfaat || ferrous sulfate,dried
+C0036601 || zichzelf te snijden || zelfverwonding
+C0011251 || waanvoorstellingen || waanstoornis
+C0031046 || Pericarditis || pericarditis
+C1269537 || Hersenen || gehele encephalon
+C0002630 || vliezen || lamsvlies
+C0030193 || pijnklachten || pijn
+C0007789 || cerebrale parese || little, ziekte van
+C0001080 || Achondroplasie || chondroplasie, a-
+C0206441 || Piramidecellen || piramidecellen
+C0019572 || extreme haargroei || behaardheid
+C0002615 || salmiak || chlorid ammonia
+C0032225 || longvlies || pleura
+C0117953 || dichlorodifluoromethaan || dichlorodifluoromethane
+C3463824 || beenmergstoornis || syndroom, myelodysplastisch
+C0017472 || cotylen || kiembladen
+C0007137 || Plaveiselcelcarcinoom || squameuze-celcarcinoom
+C0017189 || maag-darm || tractus gastrointestinalis
+C0040578 || trachea || trachea
+C0221198 || laesies || laesie
+C0014591 || neusbloedingen || neusbloeding
+C0001963 || methanolverbindingen || methylalcohol
+C0022663 || glomeruli || nierfilter
+C0004048 || inhalatie || inhaleren
+C0032961 || dracht || zwangerschap
+C0009450 || Infectieziekten || ziekten, besmettelijke
+C0265554 || split-hand/split-foot syndroom || kreeftenhand of kreeftenvoet
+C0032961 || hoogzwangere || zwangerschap
+C0024198 || ziekte van Lyme || ziekte, lyme-
+C0004352 || autistisch spectrum || vroegkinderlijk autisme
+C0010834 || celinhoud || cytoplasma
+C0016204 || wind || winderigheid als symptoom
+C0009488 || multimorbiditeit || comorbiditeit
+C0042024 || incontinentie || urineverlies
+C4083212 || alopecia || mannelijk kaalheidspatroon
+C0013371 || dysenterie || shigellose niet-gespecificeerd
+C0017189 || maag-darmklachten || tractus gastrointestinalis
+C0008203 || alkylchloride || chloridezout
+C0003076 || aniridie || ontbreken van iris
+C0086418 || Mens || mensheid
+C0018026 || Golden || gold
+C0018524 || hallucineert || hallucineren
+C0013395 || opgeblazen gevoel || indigestie
+C0152036 || immunologische || immunologie
+C0041445 || tympanum || trommelvlies
+C0030764 || seks tussen volwassenen en kinderen || pedofilie
+C0024305 || non-hodgkin || ziekte van non-hodgkin
+C0037868 || spermatozoïden (zaadcellen) || zaadcel
+C2939420 || gemetastaseerde || metastatisch neoplasma
+C0013604 || Oedeem || waterzucht
+C0016204 || winden || winderigheid als symptoom
+C0025462 || middenhersenen || middenhersenen
+C0025424 || Kwik || mercury
+C0003286 || anti-epileptisch || anticonvulsivum
+C0027697 || nierfalen || nierontsteking
+C3665420 || C2-C5 || wervel, hals-
+C0460002 || stelsels van enkele organen || tractus
+C0010055 || bypassoperatie || coronairebypassoperatie
+C0023317 || oorspronkelijke lens || ooglens
+C0086418 || Humans || mensheid
+C0005558 || preparaten || biopsie
+C0001916 || albinistische || albinisme
+C0029939 || ovariële || ovarium
+C0029939 || ovaria || ovarium
+C0086437 || hypermobiliteit || laxiteit, gewrichts-
+C0024624 || longtumoren || maligniteit van bovenkwab, bronchus of long
+C2609259 || zwangerschapsgerelateerde bekkenpijn || symphysis pubica disfunctie
+C0016904 || GABA-receptor || ω-aminobutyric acid
+C0001956 || alcohol gerelateerde problemen || alcoholgebruiksstoornis
+C0014733 || erysipelas || wondroos
+C0007789 || CP || little, ziekte van
+C0041296 || Tuberculose || infectieus proces door mycobacterium tuberculosis
+C0070570 || hydroxybenzeen || phenylic alcohol
+C0007610 || nucleaire || kern, cel-
+C0014390 || entropion/ectropion || naar binnen gedraaid ooglid
+C0016658 || dubbele beenbreuk || gebroken botten
+C0008845 || Citalopram || citalopramum
+C0023976 || verlenging van het QT-interval || syndroom, lange-QT-
+C0031212 || persoonlijkheidsstoornissen || stoornis persoonlijkheid
+C0015663 || gevast || vasten
+C0149844 || Hersenkneuzing || kneuzing van encephalon
+C0016470 || voedselallergieën || voedselovergevoeligheid
+C0014038 || hersen- || ontsteking, hersen-
+C0022237 || isopropanol || propan-2-ol
+C1281743 || trofoblastcellen || embryo, preïmplantatie
+C0393770 || slaapgebrek || vertraagde-slaapfasesyndroom
+C0007012 || niet-koolzuurhoudende || carbon dioxide
+C0524851 || ziekten die het zenuwstelsel aantasten || ziekten, neurodegeneratieve
+C0043217 || houtsoorten || hout
+C0040953 || Trichotillomanie || trichollomania
+C0149721 || hypertrofische cardiomyopathie || ventrikelhypertrofie, linker-
+C0018926 || hematemese || haematemesis
+C0001041 || cholinerge || o-acetylcholine
+C0027030 || huidmadenziekte || vliegenlarvenziekte
+C0011053 || hardhorendheid || surditas
+C0027061 || myocard || spier, hart-
+C0006701 || kalk- || calcium hydroxide
+C0725616 || citroen || citric acid,anhydrous
+C0003818 || arsenicum || as
+C0033325 || prognoses || prognosticeren
+C0020885 || ileum || kronkeldarm
+C0028754 || bovengewicht || zwaarlijvigheid
+C0008058 || wintertenen of winterhanden || wintertenen en winterhanden
+C0001407 || Adenine || vitamin b4
+C0040822 || beven || tremor
+C0073393 || Risperidon || risperidonum
+C0029463 || osteoblastische || sarcoom, osteogeen
+C0013884 || olifantsziekte || lymfatische filariasis
+C0032371 || Polio || ziekte van heine-medin
+C0016410 || folaat || ácido fólico
+C0026237 || mitochondriën || mitochondrium
+C0070122 || Paroxetine || paroxetinum
+C0002600 || Tryptizol || amitriptylinum
+C0033325 || bevolkingsprognose || prognosticeren
+C0003232 || antibiotische activiteit || antibiotica
+C0002622 || amnestisch || geheugenverlies
+C0376449 || somieten || somieten
+C0028351 || noradrenaline-niveau || norepinephrinum
+C0004048 || inademen || inhaleren
+C0553580 || Ewing-sarcoom || ewingsarcoom
+C0005682 || varkensblaas || vesica urinaria
+C0037199 || voorhoofds- en bijholteontstekingen || sinusinfectie
+C0041296 || tbc || infectieus proces door mycobacterium tuberculosis
+C0036601 || zelfbeschadiging || zelfverwonding
+C0036690 || sepsis || septikemie
+C0036471 || balzak || scrotum
+C0032961 || in verwachting || zwangerschap
+C0006675 || Ca || kalzium
+C0007129 || Merkelcelcarcinoom || neuro-endocrien carcinoom van de huid
+C0042024 || urineverlies || urineverlies
+C0020274 || HF || hydrogenfluorid
+C0033975 || psychosen || psychotische stoornissen
+C0035527 || vitamine B2 || vitamine b2
+C0005889 || lichaamsvloeistof || vloeistof, lichaams-
+C0016204 || flatulentie || winderigheid als symptoom
+C0751837 || ataxisch || gangataxie
+C0011053 || Doofheid || surditas
+C0022821 || gebochelde || hyperkyfose
+C0037299 || zweren || ulcus, huid-
+C0038455 || liter || volume, slag-
+C0039597 || testis || zaadbal
+C1690571 || kattenallergie || allergie voor substantie
+C0002658 || Amfetamines || β-aminopropylbenzene
+C0024198 || Lyme || ziekte, lyme-
+C0014520 || opperweefsel || opperhuid
+C0020604 || hypochonder || ziektevrees
+C0497327 || dementeren || dementia
+C0009443 || acute infecties aan de luchtwegen || verkoudheidssyndroom
+C0027061 || hart- || spier, hart-
+C0010232 || koepokinentingen || pokken, koe-
+C0012010 || valium || methyl diazepinone
+C0030421 || Paragangliomen || paraganglionneoplasma
+C0003578 || ademstilstand || apnoe
+C0027497 || misselijkmakend || onpasselijk gevoel
+C0070570 || fenolen || phenylic alcohol
+C0017601 || groene staar || glaucoom
+C0031150 || laparoscopisch || kijkoperatie
+C0006277 || Bronchitis || bronchitis, niet gespecificeerd als acuut of chronisch
+C0041296 || longtuberculose || infectieus proces door mycobacterium tuberculosis
+C0018524 || hallucinogenen || hallucineren
+C0016410 || B12 || ácido fólico
+C0037303 || doodshoofd || schedel
+C0026237 || lever mitochondriën || mitochondrium
+C0008203 || chloride- || chloridezout
+C0029607 || longemfyseem || overige gespecificeerde vormen van emfyseem
+C0016904 || GABA || ω-aminobutyric acid
+C5203670 || covidbesmetting || coronavirusziekte 2019
+C0001956 || alcoholicus || alcoholgebruiksstoornis
+C0018941 || bloedbuisjes || onderzoek, hematologisch
+C0035065 || nierslagaders || nierslagader
+C0006325 || tandenknarsen || knarsetanden
+C0442874 || neuropathische || zenuwaandoening
+C0004352 || autistisch || vroegkinderlijk autisme
+C0039597 || testes || zaadbal
+C0035404 || resusnegatief || rhesus iso-immunisatie
+C0027051 || hartaanvallen || infarct, myocard-
+C0013450 || stijgbeugels || ossicula auditus
+C0039736 || Softenonschandaal || α-phthalimidoglutarimide
+C0002333 || Xanax || 8-chloro-1-methyl-6-phenyl-4h-s-triazolo(4,3-a)(1,4)benzodiazepine
+C0069715 || oxalaatester || oxalic acid
+C0011053 || dove mensen || surditas
+C0028754 || morbide obesitas || zwaarlijvigheid
+C0002607 || ammoniakgeur || ammonia
