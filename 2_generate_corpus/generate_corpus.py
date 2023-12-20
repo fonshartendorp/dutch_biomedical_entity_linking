@@ -13,17 +13,21 @@ pattern = '<a href=\\"(.+?)\\">(.+?)<\/a>'
 
 def parseDocument(doc):
         """
-        Spit 
+        Split into sentences and return sentences with hyperlink to Wikipedia article
         """
         samples = ""
         datasample_id = 0
         text = nlp(doc['text'])
+
+        # Loop over sentences
         for sent in text.sents:
                 matches = re.findall(pattern, str(sent))
                 subbed = str(sent).replace("'", "")
 
                 cuis = []
                 for url in matches:
+
+                        # Clean URL
                         try:
                                 subbed = re.sub(pattern, url[1], subbed, 1)
                         except:
@@ -31,6 +35,7 @@ def parseDocument(doc):
                         if str(sent[0:2]) == '<a':
                                 continue
 
+                        # Lookup title in Wikipedia articles
                         try:
                                 idd = title_to_CUI[unquote(url[0])]
 
@@ -43,6 +48,8 @@ def parseDocument(doc):
                                         continue
                         except:
                                 continue
+
+                # If clean hyperlink, return
                 if len(cuis) > 0 and '<' not in subbed and '>' not in subbed:
                         sample = {
                                 'sentence' : subbed.replace('\n', ''),
@@ -61,6 +68,7 @@ def parseDocument(doc):
 # Load Dutch Spacy pipeline
 nlp = spacy.load("nl_core_news_sm")
 
+# All titles of Wikipedia articles from Geneeskunde/aandoening/fysiologie with depth 4
 with open('wiki_title_to_CUI_geneeskunde_aandoening_fysiologie_4', 'rb') as f:
         title_to_CUI = pkl.load(f)
 
@@ -71,6 +79,7 @@ samples = {
         'samples' : []
 }
 
+# Search all articles from the Dutch Wikipedia dump of March 20223
 for line in open('all/AA/wiki_00', 'rb'):
         doc = json.loads(line)
         matches = re.findall(pattern, doc['text'])
