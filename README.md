@@ -1,11 +1,11 @@
 # Dutch biomedical entity linking
 
-This repository contains the code for generating the training data, training and evaluating the sapBERT+fine-tuned Dutch biomedical entity linking model as presented in the report. The pre-trained weights of our optimal model are found on [Huggingface](https://huggingface.co/fonshartendorp/dutch_biomedical_entity_linking)
+This repository contains the code for generating the training data and training and evaluating the sapBERT+fine-tuned Dutch biomedical entity linking model as presented in the report. The pre-trained weights of our optimal model are found on [Huggingface](https://huggingface.co/fonshartendorp/dutch_biomedical_entity_linking).
 
 ### Summary
-- RoBERTa-based basemodel that is trained from scratch on Dutch hospital notes ([medRoBERTa.nl](https://huggingface.co/CLTL/MedRoBERTa.nl)).
-- 2nd-phase pretrained using [self-alignment](https://doi.org/10.48550/arXiv.2010.11784) on UMLS-derived Dutch biomedical ontology.
-- fine-tuned on automatically generated weakly labelled corpus from Wikipedia.
+- a RoBERTa-based basemodel that is trained from scratch on Dutch hospital notes ([medRoBERTa.nl](https://huggingface.co/CLTL/MedRoBERTa.nl)).
+- that is 2nd-phase pretrained using [self-alignment](https://doi.org/10.48550/arXiv.2010.11784) on a UMLS-derived Dutch biomedical ontology.
+- and finally fine-tuned on automatically generated weakly labelled corpus from Wikipedia ([WALVIS](https://github.com/fonshartendorp/dutch_biomedical_entity_linking/blob/main/WALVIS-corpus/WALVIS.xml)).
 - evaluation results on [Mantra GSC](https://doi.org/10.1093/jamia/ocv037) corpus can be found in the [report](https://github.com/fonshartendorp/dutch_biomedical_entity_linking/blob/main/report/report.pdf)
 
 ### Overview
