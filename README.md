@@ -1,6 +1,6 @@
 # Dutch biomedical entity linking
 
-This repository contains the code for generating the training data and training and evaluating the sapBERT+fine-tuned Dutch biomedical entity linking model as presented in the report. The pre-trained weights of our optimal model are found on [Huggingface](https://huggingface.co/fonshartendorp/dutch_biomedical_entity_linking)
+This repository contains the code for generating the training data and training and evaluating the sapBERT+fine-tuned Dutch biomedical entity linking model as presented in the report. The pre-trained weights of our optimal model are found on [Huggingface](https://huggingface.co/fonshartendorp/dutch_biomedical_entity_linking).
 
 ### Summary
 - a RoBERTa-based basemodel that is trained from scratch on Dutch hospital notes ([medRoBERTa.nl](https://huggingface.co/CLTL/MedRoBERTa.nl)).
