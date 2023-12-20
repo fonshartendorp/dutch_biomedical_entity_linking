@@ -18,4 +18,6 @@ For enhancing the UMLS a UMLS and SNOMED NL license should be requested.
 ### ONTOLOGY-browser
 The ONTOLOGY-browser is a minimal Flask-based browser tool for comparing UMLS entries.
 
-[![ontology-browser](/ontology_browser/ontology-browser.png "ONTOLOGY-browser")](/ontology_browser/umls-browser.png)
+
+<img src="https://github.com/fonshartendorp/dutch_biomedical_entity_linking/blob/main/ontology-browser/ontology-browser.png" />
+
