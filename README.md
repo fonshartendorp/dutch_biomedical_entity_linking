@@ -15,7 +15,7 @@ The code for enhancing the UMLS and creating a biomedical ontology for biomedica
 
 For enhancing the UMLS a UMLS and SNOMED NL license should be requested.
 
-### UMLS-browser
-The UMLS-browser is a minimal Flask-based browser tool for comparing UMLS entries.
+### ONTOLOGY-browser
+The ONTOLOGY-browser is a minimal Flask-based browser tool for comparing UMLS entries.
 
-[![UMLS-browser](/umls_browser/umls-browser.png "UMLS-browser")](/umls_browser/umls-browser.png)
+[![ontology-browser](/ontology_browser/ontology-browser.png "ONTOLOGY-browser")](/ontology_browser/umls-browser.png)
