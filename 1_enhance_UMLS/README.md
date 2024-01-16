@@ -1,3 +1,5 @@
+This folder is forked from [https://github.com/umcu/dutch-medical-concepts](https://github.com/umcu/dutch-medical-concepts)
+
 # Dutch Medical Concepts
 This repository contains instructions and code to create concept tables of Dutch medical names, such as primary names, synonyms, abbreviations, and common misspellings. By basing a concept table on UMLS, which includes MeSH, MedDRA, ICD-10 and ICPC, and adding 
  CT and a few manually added names, a comprehensive set of words commonly used in Dutch medical language is generated. Workflows for creating SNOMED and HPO based concept tables are also in this repository.
