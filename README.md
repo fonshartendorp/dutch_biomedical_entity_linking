@@ -11,7 +11,7 @@ This repository contains the code for generating the training data and training 
 ### Overview
 <img src="https://github.com/fonshartendorp/dutch_biomedical_entity_linking/blob/main/report/overview.png" width="80%" />
 
-The code for enhancing the UMLS and creating a biomedical ontology for biomedical entity linking (1\_enhance\_UMLS) is a slightly tweaked version from the [Dutch-medical-concepts](https://github.com/umcu/dutch-medical-concepts) repository from the UMCU. The code for sapBERT and fine-tuning is largely re-used from the [code base of the original paper](https://github.com/cambridgeltl/sapbert/tree/main). 
+The code for enhancing the UMLS and creating a biomedical ontology for biomedical entity linking (1\_enhance\_UMLS) is forked from the [Dutch-medical-concepts](https://github.com/umcu/dutch-medical-concepts) repository from the UMCU. The code for self-alignment pretraining and fine-tuning is largely re-used from the [code base of the original sapBERT paper](https://github.com/cambridgeltl/sapbert/tree/main). 
 
 For enhancing the UMLS a UMLS and SNOMED NL license should be requested.
 
