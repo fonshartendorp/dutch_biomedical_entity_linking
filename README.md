@@ -1,4 +1,4 @@
-# Dutch biomedical entity linking
+# Biomedical Entity Linking for Dutch: Fine-tuning a Self-alignment BERT Model on an Automatically Generated Wikipedia Corpus
 
 This repository contains the code for generating the training data and training and evaluating the sapBERT+fine-tuned Dutch biomedical entity linking model as presented in the [paper](https://arxiv.org/abs/2405.11941).
 
