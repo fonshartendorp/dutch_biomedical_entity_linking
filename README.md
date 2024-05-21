@@ -1,6 +1,6 @@
 # Dutch biomedical entity linking
 
-This repository contains the code for generating the training data and training and evaluating the sapBERT+fine-tuned Dutch biomedical entity linking model as presented in the report.
+This repository contains the code for generating the training data and training and evaluating the sapBERT+fine-tuned Dutch biomedical entity linking model as presented in the [paper](https://arxiv.org/abs/2405.11941).
 
 ### Summary
 - a RoBERTa-based basemodel that is trained from scratch on Dutch hospital notes ([medRoBERTa.nl](https://huggingface.co/CLTL/MedRoBERTa.nl)).
